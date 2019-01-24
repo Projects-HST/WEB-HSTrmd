@@ -59,7 +59,7 @@
                                          <p>This is a short description</p>
                                        </div> -->
                                         <div class="middle">
-                                            <div class="text">Chamiers Center</div>
+                                            <div class="text">Chamiers Center <br>Chamiers Road, chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -70,7 +70,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/commercial/access_house/ah3.jpg">
                                         <div class="middle">
-                                            <div class="text">Access House</div>
+                                            <div class="text">Access House <br>JJ Road, Chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -81,7 +81,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/commercial/mrf/mrf_1.jpg">
                                         <div class="middle">
-                                            <div class="text">MRF Tyre Drome Adyar</div>
+                                            <div class="text">MRF Tyre Drome <br>Adyar Chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -92,7 +92,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Pricol Chamiers Square</div>
+                                            <div class="text">Pricol Chamiers Square <br>Chamiers Road, chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -103,7 +103,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/commercial/pricol_caledon/pricol_cal2.jpg">
                                         <div class="middle">
-                                            <div class="text">Pricol Chamiers Square</div>
+                                            <div class="text">Pricol Chamiers Square <br>Coimbatore</div>
                                         </div>
                                     </a>
                                 </div>
@@ -114,7 +114,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Pricol Shristi Square</div>
+                                            <div class="text">Pricol Shristi Square <br>Coimbatore</div>
                                         </div>
                                     </a>
                                 </div>
@@ -126,7 +126,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/condominiums/arihant_panache/ap_2.jpg">
                                         <div class="middle">
-                                            <div class="text">Panache</div>
+                                            <div class="text">Panache <br>Ponnamallee high road, chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -137,7 +137,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/condominiums/arihant_jashn/aj_1.jpg">
                                         <div class="middle">
-                                            <div class="text">Jashn</div>
+                                            <div class="text">Jashn <br>Ponnamallee high road, chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -148,7 +148,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/condominiums/arihant_tiara/at_2.jpg">
                                         <div class="middle">
-                                            <div class="text">Tiara</div>
+                                            <div class="text">Tiara <br>Ponnamallee high road, chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -160,7 +160,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Shresta</div>
+                                            <div class="text">Shresta <br>Gopalapuram, Chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -172,7 +172,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Gurukripa</div>
+                                            <div class="text">Gurukripa <br>Kilpauk, Chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -183,7 +183,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/condominiums/emami/Emami1.jpg">
                                         <div class="middle">
-                                            <div class="text">Emami Tejomaya</div>
+                                            <div class="text">Emami Tejomaya <br>Navallur, OMR, Chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -194,7 +194,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Golden Rays</div>
+                                            <div class="text">Golden Rays <br>Coimbatore</div>
                                         </div>
                                     </a>
                                 </div>
@@ -205,7 +205,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/condominiums/ivory_court/ic_2.jpg">
                                         <div class="middle">
-                                            <div class="text">Ivory Court</div>
+                                            <div class="text">Ivory Court <br>Coimbatore</div>
                                         </div>
                                     </a>
                                 </div>
@@ -217,7 +217,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/condominiums/aquitaine/aq1.jpg">
                                         <div class="middle">
-                                            <div class="text">Aquitaine</div>
+                                            <div class="text">Aquitaine <br>Coimbatore</div>
                                         </div>
                                     </a>
                                 </div>
@@ -228,7 +228,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/condominiums/urban_ville/uv_1.jpg">
                                         <div class="middle">
-                                            <div class="text">Urban Ville</div>
+                                            <div class="text">Urban Ville <br>Coimbatore</div>
                                         </div>
                                     </a>
                                 </div>
@@ -239,7 +239,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/hospitality/dvara_siruvani/ds_1.jpg">
                                         <div class="middle">
-                                            <div class="text">Dvara siruvani</div>
+                                            <div class="text">Dvara siruvani <br>Coimbatore</div>
                                         </div>
                                     </a>
                                 </div>
@@ -250,7 +250,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Dvara Kodaikanal</div>
+                                            <div class="text">Dvara Kodaikanal <br>Vilpatty, kodaikanal</div>
                                         </div>
                                     </a>
                                 </div>
@@ -261,7 +261,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Dvara Thorapalli</div>
+                                            <div class="text">Dvara Thorapalli <br>Mudumalai, TN</div>
                                         </div>
                                     </a>
                                 </div>
@@ -272,7 +272,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/hospitality/id_besant_nagar/bn2.jpg">
                                         <div class="middle">
-                                            <div class="text">ID - Besant Nagar </div>
+                                            <div class="text">ID - Besant Nagar <br>Besant Nagar, Chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -294,7 +294,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/hospitality/sports_complex/mc1.jpg">
                                         <div class="middle">
-                                            <div class="text">Sports Complex</div>
+                                            <div class="text">Sports Complex <br>Chetpet, Chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -305,7 +305,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/hospitality/vpr_convention_center/cc1.jpg">
                                         <div class="middle">
-                                            <div class="text">VPR Convention Center</div>
+                                            <div class="text">VPR Convention Center<br>Nellore, AP</div>
                                         </div>
                                     </a>
                                 </div>
@@ -316,7 +316,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/hospitality/hotel/hotel1.jpg">
                                         <div class="middle">
-                                            <div class="text">Hotel</div>
+                                            <div class="text">Hotel <br>Tiruthani,TN</div>
                                         </div>
                                     </a>
                                 </div>
@@ -327,7 +327,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Pricol factory 10</div>
+                                            <div class="text">Pricol factory 10 <br>Sricity, AP</div>
                                         </div>
                                     </a>
                                 </div>
@@ -339,7 +339,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/institution/km_hospital/km1.jpg">
                                         <div class="middle">
-                                            <div class="text">KM Hospital</div>
+                                            <div class="text">KM Hospital <br>Kilpauk, chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -350,7 +350,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/institution/NFDC/nfdc4.jpg">
                                         <div class="middle">
-                                            <div class="text">NFDC</div>
+                                            <div class="text">NFDC <br>RA Puram, chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -361,7 +361,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Silver Springs</div>
+                                            <div class="text">Silver Springs <br>Coimbatore</div>
                                         </div>
                                     </a>
                                 </div>
@@ -372,7 +372,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Adyar Bunglow </div>
+                                            <div class="text">Adyar Bunglow <br>Boat Club, chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -383,7 +383,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Manoj Lulla Residence</div>
+                                            <div class="text">Manoj Lulla Residence <br>Anderson Road, chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -394,7 +394,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="noimage.jpg">
                                         <div class="middle">
-                                            <div class="text">Bunglow in Maldives</div>
+                                            <div class="text">Bunglow in Maldives <br>Male, Maldives</div>
                                         </div>
                                     </a>
                                 </div>
@@ -406,7 +406,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/residences/muthukrishnan/mk1.jpg">
                                         <div class="middle">
-                                            <div class="text">Muthukrishnan</div>
+                                            <div class="text">Muthukrishnan <br>Mylapore, Chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -418,7 +418,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/residences/rekha_rangarajan/rr1.jpg">
                                         <div class="middle">
-                                            <div class="text">Rekha Rangarajan</div>
+                                            <div class="text">Rekha Rangarajan <br>RA Puram, chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -430,7 +430,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/residences/rohit_bhatra/rb1.jpg">
                                         <div class="middle">
-                                            <div class="text">Rohit Bhatra</div>
+                                            <div class="text">Rohit Bhatra <br>Pallavakkam, ECR,  chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -442,7 +442,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/residences/raju_lunavath/rl2.jpg">
                                         <div class="middle">
-                                            <div class="text">Raju Lunavath</div>
+                                            <div class="text">Raju Lunavath <br>Gopalapuram, chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -453,7 +453,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/residences/gh_alathiyur/gh_a1.jpg">
                                         <div class="middle">
-                                            <div class="text">Guest house alathiyur</div>
+                                            <div class="text">Guest house alathiyur <br>Alathiyur, TN</div>
                                         </div>
                                     </a>
                                 </div>
@@ -464,7 +464,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/residences/guest_pallapalyam/gh_p1.jpg">
                                         <div class="middle">
-                                            <div class="text">Guest house pallapalayam</div>
+                                            <div class="text">Guest house pallapalayam <br>Coimbatore</div>
                                         </div>
                                     </a>
                                 </div>
@@ -475,7 +475,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/residences/ecr_villa/villa1.jpg">
                                         <div class="middle">
-                                            <div class="text">ECR Villa</div>
+                                            <div class="text">ECR Villa <br>ECR, Chennai</div>
                                         </div>
                                     </a>
                                 </div>
@@ -486,7 +486,7 @@
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/residences/beach_house/bh1.jpg">
                                         <div class="middle">
-                                            <div class="text">Beach House</div>
+                                            <div class="text">Beach House <br>Kovalam, chennai</div>
                                         </div>
                                     </a>
                                 </div>

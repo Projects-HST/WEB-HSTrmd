@@ -83,7 +83,7 @@
 								<h4 class="modal-title" id="myModalLabel">Pricol Chamiers Square</h4>
 							</div>
 							<div class="col-md-12 img_popup">
-								<img src="architecture/commercial/pricol_caledon/pricol_cal1.jpgg" class="rounded mx-auto d-block modal_img" alt="">
+								<img src="architecture/commercial/pricol_caledon/pricol_cal1.jpg" class="rounded mx-auto d-block modal_img" alt="">
 								</div>
 								<div class="col-md-12 img_popup">
 									<img src="architecture/commercial/pricol_caledon/pricol_cal2.jpg" class="rounded mx-auto d-block modal_img" alt="">

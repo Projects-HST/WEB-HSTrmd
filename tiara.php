@@ -84,10 +84,10 @@
 								<h4 class="modal-title" id="myModalLabel">Tiara</h4>
 							</div>
 							<div class="col-md-12 img_popup">
-								<img src="architecture/condominiums/arihant_jashn/aj_1.jpg" class="rounded mx-auto d-block modal_img" alt="">
+								<img src="architecture/condominiums/arihant_tiara/at_1.jpg" class="rounded mx-auto d-block modal_img" alt="">
 								</div>
 								<div class="col-md-12 img_popup">
-									<img src="architecture/condominiums/arihant_jashn/aj_2.jpg" class="rounded mx-auto d-block modal_img" alt="">
+									<img src="architecture/condominiums/arihant_tiara/at_2.jpg" class="rounded mx-auto d-block modal_img" alt="">
 									</div>
 
 									<div class="modal-footer">
