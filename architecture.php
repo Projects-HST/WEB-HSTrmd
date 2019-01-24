@@ -66,7 +66,7 @@
                             </div>
                             <div class="col-md-4 col-lg-4 col-sm-6 commercial project_thumb">
                                 <div class="content">
-                                    <a href="access.house.php">
+                                    <a href="access_house.php">
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="architecture/commercial/access_house/ah3.jpg">
                                         <div class="middle">
