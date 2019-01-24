@@ -29,7 +29,7 @@
 <body>
     <section id="portfolio" class="grid-wrap work-4col margin-top-section no-margin-top no-padding-bottom wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
         <div class="container">
-            <div class="row no-padding" style="margin-bottom:40px;">
+            <div class="row no-padding" style="margin-bottom:40px;margin-top:20px;">
                 <div class="col-md-2">
                     <a href="index.php">  <img src="rmd.png" class="img-responsive rmd_logo"></a>
                     <div class="">

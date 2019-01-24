@@ -34,6 +34,10 @@
 
     </head>
     <style>
+    .no-padding{
+      margin-top: 20px;
+      margin-bottom: 40px;
+    }
     .nav-white.sticky-nav .navbar-nav li a { color: #000}
     .grid li{
       width:33% !important;

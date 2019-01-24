@@ -303,7 +303,7 @@ i { color: #9a9a9a; margin: 0 3px}
 .no-padding-section { padding:0px !important;}
 .no-padding-right { padding-right:0px !important;}
 .no-padding-top { padding-top:0 !important}
-.no-padding{padding:0 !important;    margin-top: 20px;}
+.no-padding{padding:0 !important;    }
 .no-padding-left { padding-left:0px !important;}
 .no-padding-bottom { padding-bottom:0 !important}
 .section-padding-inner{ padding: 140px 0}
