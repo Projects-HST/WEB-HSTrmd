@@ -80,7 +80,7 @@
 								<h4 class="modal-title" id="myModalLabel">Beach House </h4>
 							</div>
 							<div class="col-md-12 img_popup">
-								<img src="architecture/hospitality/beach_house/hotel1.jpg" class="rounded mx-auto d-block modal_img" alt="">
+								<img src="architecture/residences/beach_house/bh1.jpg" class="rounded mx-auto d-block modal_img" alt="">
 								</div>
 
 
