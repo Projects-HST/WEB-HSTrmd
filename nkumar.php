@@ -16,6 +16,7 @@
 							<li class="nav"><a href="#" id="cinemas">Cinemas </a></li>
 							<li class="nav"><a href="#" id="hospitality">Hospitality</a></li>
 							<li class="nav"><a href="#" id="residence">Residence</a></li>
+
 						</ul>
 						<!-- end filter navigation -->
 					</div>
@@ -25,14 +26,14 @@
 						<div class="col-md-4">
 							<h3 class="area-title text-capitalize  margin-20px-bottom font-weight-300 sm-width-100 xs-width-100"
                                   style="color: #646466;font-size: 30px;">
-														Sathyam Nellore  </h3>
+																Nkumar </h3>
 							<br>
 								<b>Type :</b>
-								<p>Cinemas</p>
+								<p>Residences</p>
 								<b>Size :</b>
 								<p>&nbsp;</p>
 								<b>Address :</b>
-								<p>Nellore</p>
+								<p>Teynampet, chennai</p>
 								<b>Completed :</b>
 								<p>&nbsp;</p>
 							</div>
@@ -41,24 +42,24 @@
 									<div class="col-md-6 project_img ">
 										<div class="gallery-img gallery">
 											<a onclick="showmodal()">
-												<img class="content-image" src="interiors/cinemas/sathyam_nellore/sn1.jpg">
+												<img class="content-image" src="interiors/residences/Nkumar/nk1.jpg">
 												</a>
 											</div>
 										</div>
 										<div class="col-md-6 project_img ">
 											<div class="gallery-img gallery">
 												<a onclick="showmodal()">
-													<img class="content-image" src="interiors/cinemas/sathyam_nellore/sn2.jpg">
+													<img class="content-image" src="interiors/residences/Nkumar/nk2.jpg">
 													</a>
 												</div>
 											</div>
-
-
-
-
-
-
-
+											<div class="col-md-6 project_img ">
+												<div class="gallery-img gallery">
+													<a onclick="showmodal()">
+														<img class="content-image" src="interiors/residences/Nkumar/nk3.jpg">
+														</a>
+													</div>
+												</div>
 
 										</div>
 									</div>
@@ -72,15 +73,22 @@
 						<div class="modal-content">
 							<div class="modal-header">
 								<a class="close" data-dismiss="modal" aria-hidden="true" style="color:#fff;font-size:12px;opacity:1;margin-top:8px;">X  </a>
-								<h4 class="modal-title" id="myModalLabel">Sathyam Nellore </h4>
+								<h4 class="modal-title" id="myModalLabel">Nkumar </h4>
 							</div>
 
 							<div class="col-md-12 img_popup">
-								<img src="interiors/cinemas/sathyam_nellore/sn1.jpg" class="rounded mx-auto d-block modal_img" alt="">
-								</div>
-													<div class="col-md-12 img_popup">
-														<img src="interiors/cinemas/sathyam_nellore/sn2.jpg" class="rounded mx-auto d-block modal_img" alt="">
-														</div>
+								<img src="interiors/residences/Nkumar/nk1.jpg" class="rounded mx-auto d-block modal_img" alt="">
+							</div>
+							<div class="col-md-12 img_popup">
+								<img src="interiors/residences/Nkumar/nk2.jpg" class="rounded mx-auto d-block modal_img" alt="">
+							</div>
+							<div class="col-md-12 img_popup">
+								<img src="interiors/residences/Nkumar/nk3.jpg" class="rounded mx-auto d-block modal_img" alt="">
+							</div>
+
+
+
+
 
 
 

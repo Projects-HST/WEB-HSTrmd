@@ -152,7 +152,7 @@
                             </div>
                             <div class="col-md-4 col-lg-4 col-sm-6 hospitality project_thumb">
                                 <div class="content">
-                                    <a href="sathyam_nellore.php" >
+                                    <a href="inter_vpr_convention_center.php" >
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="interiors/hospitality/vpr_convention_center/vprcc1.jpg">
                                         <div class="middle fadeIn-top">
@@ -185,7 +185,7 @@
                             </div>
                             <div class="col-md-4 col-lg-4 col-sm-6 hospitality project_thumb">
                                 <div class="content">
-                                    <a href="#" >
+                                    <a href="inter_sports_complex.php" >
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="interiors/hospitality/sports_complex/sc4.jpg">
                                         <div class="middle fadeIn-top">
@@ -196,7 +196,7 @@
                             </div>
                             <div class="col-md-4 col-lg-4 col-sm-6 hospitality project_thumb">
                                 <div class="content">
-                                    <a href="#" >
+                                    <a href="id_cafe.php" >
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="interiors/hospitality/id_cafe/idbn1.jpg">
                                         <div class="middle fadeIn-top">
@@ -207,7 +207,7 @@
                             </div>
                             <div class="col-md-4 col-lg-4 col-sm-6 hospitality project_thumb">
                                 <div class="content">
-                                    <a href="#" >
+                                    <a href="private_lounage.php" >
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="interiors/hospitality/private_lounage/pl4.jpg">
                                         <div class="middle fadeIn-top">
@@ -218,11 +218,275 @@
                             </div>
                             <div class="col-md-4 col-lg-4 col-sm-6 hospitality project_thumb">
                                 <div class="content">
-                                    <a href="#" >
+                                    <a href="club_house.php" >
                                         <div class="content-overlay"></div>
                                         <img class="content-image" src="interiors/hospitality/club_house/Emami3.jpg">
                                         <div class="middle fadeIn-top">
                                               <div class="text">Club house in Residential complex</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 residence project_thumb">
+                                <div class="content">
+                                    <a href="club_house.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Anjali Goel</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 residence project_thumb">
+                                <div class="content">
+                                    <a href="club_house.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Adyar Bunglow </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 residence project_thumb">
+                                <div class="content">
+                                    <a href="club_house.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Rohit Bhatra</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 residence project_thumb">
+                                <div class="content">
+                                    <a href="club_house.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Rekha Rangarajan</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 residence project_thumb">
+                                <div class="content">
+                                    <a href="club_house.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Nitin Mehra</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 residence project_thumb">
+                                <div class="content">
+                                    <a href="nkumar.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="interiors/residences/Nkumar/nk1.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Nkumar</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 residence project_thumb">
+                                <div class="content">
+                                    <a href="club_house.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Anjali Goel</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="inter_access_house.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="interiors/corporate/access_house/ah1.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Access house 4th floor</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="#" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Access house 2nd & 3rd floor </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="#" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Skoda Automobile Showroom</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="gk_shetty.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="interiors/corporate/gk_shetty/gks3.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">GK Shetty's Office</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="tyre_drome.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="interiors/corporate/tyre/mrf_int1.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Tyre Drome</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                      <a href="#" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Factory office</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                      <a href="#" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Pricol Corporate Office Chennai</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                      <a href="#" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Pricol Corporate Office Coimbatore</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                      <a href="#" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">lynk Corporate Office</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="tnq.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="interiors/corporate/tnq/tnqp2.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">TNQ publications</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="#" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Arihant Corporate office</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="maple.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="interiors/corporate/mapletree/mt1.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Maple Tree</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                      <a href="#" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">IE Singapore</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="#" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Contact Singapore</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="#" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="noimage.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Singapore consulate</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="talent.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="interiors/corporate/talent/tp1.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Talent Pro</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-lg-4 col-sm-6 corporate project_thumb">
+                                <div class="content">
+                                    <a href="ramco.php" >
+                                        <div class="content-overlay"></div>
+                                        <img class="content-image" src="interiors/corporate/ramco/ramco1.jpg">
+                                        <div class="middle fadeIn-top">
+                                              <div class="text">Ramco Corporate Office</div>
                                         </div>
                                     </a>
                                 </div>
@@ -310,63 +574,38 @@
         //   $('#archshow').show();
         // });
         $("#all").click(function () {
-            $('.commercial').show();
-            $('.residences').show();
+            $('.corporate').show();
+            $('.residence').show();
+            $('.cinemas').show();
             $('.hospitality').show();
-            $('.condominiums').show();
-            $('.institution').show();
-            $('.industrial').show();
         });
 
-        $("#comm").click(function () {
-          $('.commercial').show();
-          $('.residences').hide();
+        $("#corporate").click(function () {
+          $('.corporate').show();
+          $('.residence').hide();
+          $('.cinemas').hide();
           $('.hospitality').hide();
-          $('.condominiums').hide();
-          $('.institution').hide();
-          $('.industrial').hide();
         });
-        $("#condominiums").click(function () {
-          $('.commercial').hide();
-          $('.residences').hide();
-          $('.hospitality').hide();
-          $('.condominiums').show();
-          $('.institution').hide();
-          $('.industrial').hide();
-        });
-
         $("#residence").click(function () {
-          $('.commercial').hide();
-          $('.residences').show();
+          $('.corporate').hide();
+          $('.residence').show();
+          $('.cinemas').hide();
           $('.hospitality').hide();
-          $('.condominiums').hide();
-          $('.institution').hide();
-          $('.industrial').hide();
+        });
+
+        $("#cinemas").click(function () {
+          $('.corporate').hide();
+          $('.residence').hide();
+          $('.cinemas').show();
+          $('.hospitality').hide();
         });
         $("#hospitality").click(function () {
-          $('.commercial').hide();
-          $('.residences').hide();
+          $('.corporate').hide();
+          $('.residence').hide();
+          $('.cinemas').hide();
           $('.hospitality').show();
-          $('.condominiums').hide();
-          $('.institution').hide();
-          $('.industrial').hide();
         });
-        $("#institution").click(function () {
-          $('.commercial').hide();
-          $('.residences').hide();
-          $('.hospitality').hide();
-          $('.condominiums').hide();
-          $('.institution').show();
-          $('.industrial').hide();
-        });
-        $("#industrial").click(function () {
-          $('.commercial').hide();
-          $('.residences').hide();
-          $('.hospitality').hide();
-          $('.condominiums').hide();
-          $('.institution').hide();
-          $('.industrial').show();
-        });
+      
 
 
     </script>

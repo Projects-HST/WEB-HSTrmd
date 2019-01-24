@@ -238,8 +238,18 @@ background-color: red;
                               <div class="row">
 
                                 <h3 class="" style="margin-bottom:10px; margin-top:0px;   font-size: 16px; text-align:justify;   line-height: 20px;"><span class=" font-weight-500" style="color:#f9a036;line-height: 20px;">Mhetras Design, established in the year 2002, is a dynamic architecture and interior design practice with a diverse portfolio of projects.</span></h3>
-                                <p class="text-med" style="text-align:justify;line-height: 20px;">The Firm, led by its principals Rajit & Sheetal Mhetras, is dedicated to creating enduring design with an intrinsic commitment to detail & quality.<br><br>
-                Our design philosophy adopts a collaborative approach that thoughtfully embraces an innovative and inclusive culture with the client at the heart of the design process. We are widely reputed and valued for our signature design solutions. Each skillfully rendered project creatively customizes spaces that articulate the unique identity of individual clients. Steering clear of the formulaic norm, Mhetras Design’s range of expertise extends to varied building typologies and straddles a gamut of styles. Some of our projects include the offices for the Singapore Consulate, IKEA, Skoda, Ramco, Interiors and architecture for Satyam Cinemas; as well as residential and commercial buildings for Pricol properties, Arihant and ASV.</p>
+                                <p class="text-med" style="text-align:justify;line-height: 20px;">Our principals Rajit and Sheetal Mhetras have over 20 years of experience designing a variety of projects ranging from small apartments, restaurants, large residential complexes, cineplexes, community centres, boutique & experiential hotels and bespoke individual homes in addition to corporate interiors not just in India but overseas as well. <br><br>
+
+At the heart of every successful project that we have executed over the years is an inane understanding of client's needs thereby helping us deliver flawless designs that meet and exceed their expectations. <br>
+
+The environmental factors wherein a project is situated plays an important part in our design process which includes the selection of appropriate building technologies and materials to work in harmony with the local environmental conditions.<br>
+
+We believe in long term customer satisfaction which stems from the holistic design process that we follow combined with focus on sustainability of the buildings and end use of the project.<br>
+
+This client centric design philosophy which is the core of our firm has had most of our clients coming back for multiple projects.<br>
+
+Wherever the client desires, we incorporate all the primary principles of Vaasthu into our designs.
+</p>
 
                                 </div>
                                 <div class="row" id="studio">

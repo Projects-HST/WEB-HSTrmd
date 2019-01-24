@@ -9,29 +9,13 @@
 					</a>
 					<div class="text-center">
 						<!-- filter navigation -->
-						<h3 class="" style="color:#646466;margin-top:20px;text-align:left;margin-left:-5px;">Architecture</h3>
+						<h3 class="" style="color:#646466;margin-top:20px;text-align:left;">Interiors</h3>
 						<ul class="portfolio-filter nav nav-tabs">
-							<li class="">
-								<a href="#" id="all">All </a>
-							</li>
-							<li class="">
-								<a href="#" id="comm">Commercial </a>
-							</li>
-							<li class="">
-								<a href="#" id="condominiums">Condominiums</a>
-							</li>
-							<li class="">
-								<a href="#" id="hospitality">Hospitality</a>
-							</li>
-							<li class="">
-								<a href="#" id="industrial">Industrial</a>
-							</li>
-							<li class="">
-								<a href="#" id="institution">Institutional</a>
-							</li>
-							<li class="">
-								<a href="#" id="residence">Residences</a>
-							</li>
+							<li class="nav"><a href="#" id="all">All </a></li>
+							<li class="nav"><a href="#" id="corporate">Corporate </a></li>
+							<li class="nav"><a href="#" id="cinemas">Cinemas </a></li>
+							<li class="nav"><a href="#" id="hospitality">Hospitality</a></li>
+							<li class="nav"><a href="#" id="residence">Residence</a></li>
 						</ul>
 						<!-- end filter navigation -->
 					</div>
