@@ -98,7 +98,7 @@
                     <!-- end search and cart  -->
                     <!-- toggle navigation -->
                     <div class="navbar-header col-sm-7 col-xs-2 pull-right">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only"> </button>
+                        <!-- <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only"> </button> -->
                     </div>
                     <!-- toggle navigation end -->
                     <!-- main menu -->
