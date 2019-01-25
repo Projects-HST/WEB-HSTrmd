@@ -79,6 +79,11 @@
 .opacity-full{
   opacity: 0.7;
 }
+@media  (max-width: 667px) {
+  .web_logo{
+    bottom: 100px !important;
+  }
+ }
     </style>
     <body>
         <!-- navigation panel -->
