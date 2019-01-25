@@ -13,6 +13,9 @@
 .nav-tabs{
   display: inline-block !important;
 }
+.navbar-header{
+  display: none;
+}
 }
 
 
