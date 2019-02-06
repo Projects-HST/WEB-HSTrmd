@@ -44,7 +44,7 @@
 						<?php foreach($res_details as $rows_details){} ?>
 						<div class="col-md-4">
 							<h3 class="area-title text-capitalize  margin-20px-bottom font-weight-300 sm-width-100 xs-width-100"
-                                  style="color: #646466;font-size: 30px;margin-bottom: 45px;">
+                                  style="color: #646466;font-size: 30px;margin-bottom: 50px;">
                               <?php echo $rows_details->project_name; ?></h3>
 							<br>
 								<b>Type :</b>
