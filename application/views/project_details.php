@@ -74,7 +74,7 @@
 							<h3 class="area-title text-capitalize  margin-20px-bottom font-weight-300 sm-width-100 xs-width-100"
                                   style="color: #646466;font-size: 30px;height: 105px;">
                               <?php echo $rows_details->project_name; ?></h3>
-							<br>
+						
 								<b>Type :</b>
 								<p>Commercial</p>
 								<b>Size :</b>
