@@ -43,7 +43,7 @@
                                                     <td>
                                                       <!-- <a onclick="delete_videos('<?php echo $rows->id; ?>')"><i class="fa fa-times" aria-hidden="true"></i></a> &nbsp;&nbsp; -->
                                                         <a href="<?php echo base_url(); ?>gallery/create_gallery/<?php echo base64_encode($rows->id *98765); ?>"><i class="fa fa-picture-o" aria-hidden="true"></i></a>&nbsp;&nbsp;
-                                                          <a href="<?php echo base_url(); ?>gallery/edit_gallery/<?php echo base64_encode($rows->id *98765); ?>">  <i class="fa fa-pencil-square-o" aria-hidden="true"></i></a>
+                                                          <a href="<?php echo base_url(); ?>gallery/get_project_id_details/<?php echo base64_encode($rows->id *98765); ?>">  <i class="fa fa-pencil-square-o" aria-hidden="true"></i></a>
 
 
 
