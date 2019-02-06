@@ -80,7 +80,7 @@
 								<b>Size :</b>
 								<p>  <?php echo $rows_details->size; ?></p>
 								<b>Address :</b>
-								<p><?php echo $rows_details->location; ?>,<?php echo $rows_details->city; ?>
+								<p><?php echo $rows_details->location; ?><?php echo $rows_details->city; ?>
 </p>
 								<b>Completed :</b>
 								<p><?php echo $rows_details->completed; ?></p>
