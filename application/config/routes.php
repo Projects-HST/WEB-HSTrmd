@@ -58,7 +58,7 @@ $route['translate_uri_dashes'] = FALSE;
 //--------PIA MODULE Starts-------//
 
 $route['architecture'] = 'welcome/architecture';
-$route['interiors'] = 'welcome/interiors';
+$route['interior'] = 'welcome/interiors';
 $route['contact'] = 'welcome/contact';
 $route['project_details/(:num)'] = 'welcome/project_details/$1';
 $route['about'] = 'welcome/about';

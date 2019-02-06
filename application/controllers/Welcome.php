@@ -35,7 +35,7 @@ class Welcome extends CI_Controller {
 	}
 	public function interiors()
 	{
-		echo "1";exit;
+	
 		$datas['res']=$this->centermodel->get_interiors();
 		$this->load->view('interiors',$datas);
 	}
