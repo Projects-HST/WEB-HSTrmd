@@ -99,7 +99,7 @@
                         <?php foreach($res as $rows){ ?>
 
 
-                            <div class="col-md-4 col-lg-4 col-sm-6 <?php echo lcfirst($rows->sub_category_name); ?> project_thumb">
+                            <div class="col-md-4 col-lg-4 col-sm-6 <?php echo lcfirst($rows->sub_category_name);?> project_thumb">
                                 <div class="content">
                                     <a href="<?php echo base_url(); ?>project_details/<?php echo $rows->id; ?>" >
                                         <div class="content-overlay"></div>
@@ -194,7 +194,7 @@
         //   $('#archshow').show();
         // });
         $("#all").click(function () {
-            $('.commercial').show();
+            $('.commerical').show();
             $('.residences').show();
             $('.hospitality').show();
             $('.condominiums').show();
@@ -203,7 +203,7 @@
         });
 
         $("#comm").click(function () {
-          $('.commercial').show();
+          $('.commerical').show();
           $('.residences').hide();
           $('.hospitality').hide();
           $('.condominiums').hide();
@@ -211,7 +211,7 @@
           $('.industrial').hide();
         });
         $("#condominiums").click(function () {
-          $('.commercial').hide();
+          $('.commerical').hide();
           $('.residences').hide();
           $('.hospitality').hide();
           $('.condominiums').show();
@@ -220,7 +220,7 @@
         });
 
         $("#residence").click(function () {
-          $('.commercial').hide();
+          $('.commerical').hide();
           $('.residences').show();
           $('.hospitality').hide();
           $('.condominiums').hide();
@@ -228,7 +228,7 @@
           $('.industrial').hide();
         });
         $("#hospitality").click(function () {
-          $('.commercial').hide();
+          $('.commerical').hide();
           $('.residences').hide();
           $('.hospitality').show();
           $('.condominiums').hide();
@@ -236,7 +236,7 @@
           $('.industrial').hide();
         });
         $("#institution").click(function () {
-          $('.commercial').hide();
+          $('.commerical').hide();
           $('.residences').hide();
           $('.hospitality').hide();
           $('.condominiums').hide();
@@ -244,7 +244,7 @@
           $('.industrial').hide();
         });
         $("#industrial").click(function () {
-          $('.commercial').hide();
+          $('.commerical').hide();
           $('.residences').hide();
           $('.hospitality').hide();
           $('.condominiums').hide();
