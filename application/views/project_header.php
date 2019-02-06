@@ -56,7 +56,7 @@
     padding: 45px 0px;
     }
     .nav-tabs > li > a{
-      margin-left: -5px;
+      /* margin-left: -5px; */
 
     }
     .modal-content{
