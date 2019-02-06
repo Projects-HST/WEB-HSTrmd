@@ -232,18 +232,18 @@
                   <div class="tab-content custom-menu-content">
                       <div id="mastersmenu" class="tab-pane notika-tab-menu-bg animated flipInX">
                           <ul class="notika-main-menu-dropdown">
-                              <li><a href="<?php echo base_url(); ?>years/config">Create Category</a>
-                              </li>
-                              <li><a href="<?php echo base_url(); ?>centers">View Category </a>
+                              <!-- <li><a href="<?php echo base_url(); ?>years/config">Create Category</a>
+                              </li> -->
+                              <li><a href="<?php echo base_url(); ?>category/view_cat">View Category </a>
                               </li>
 
                           </ul>
                       </div>
                       <div id="prospectsmenu" class="tab-pane notika-tab-menu-bg animated flipInX">
                           <ul class="notika-main-menu-dropdown">
-                            <li><a href="<?php echo base_url(); ?>years/config">Create Sub Category</a>
-                            </li>
-                            <li><a href="<?php echo base_url(); ?>centers">View Sub Category</a>
+                            <!-- <li><a href="<?php echo base_url(); ?>years/config">Create Sub Category</a>
+                            </li> -->
+                            <li><a href="<?php echo base_url(); ?>category/view_sub_cat">View Sub Category</a>
                             </li>
 
                           </ul>

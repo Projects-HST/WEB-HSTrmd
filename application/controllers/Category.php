@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Trade extends CI_Controller
+class Category extends CI_Controller
 {
 	function __construct()
 	{
@@ -12,22 +12,37 @@ class Trade extends CI_Controller
 	}
 
 	// Class section
-	public function home()
+	public function view_cat()
 	{
 		$datas=$this->session->userdata();
 		$user_id=$this->session->userdata('user_id');
 		$user_type=$this->session->userdata('user_type');
-		$datas['result'] = $this->trademodel->getall_trade($user_id);
-		if($user_type==3){
-		$this->load->view('pia/pia_header');
-		$this->load->view('pia/trade/add_trade',$datas);
-		$this->load->view('pia/pia_footer');
+		$datas['result'] = $this->trademodel->get_all_category();
+		if($user_type==1){
+		$this->load->view('admin/admin_header');
+		$this->load->view('admin/category/view_category',$datas);
+		$this->load->view('admin/admin_footer');
 		}
 		else{
 		redirect('/');
 		}
 	}
 
+	public function view_sub_cat()
+	{
+		$datas=$this->session->userdata();
+		$user_id=$this->session->userdata('user_id');
+		$user_type=$this->session->userdata('user_type');
+		$datas['result'] = $this->trademodel->get_all_sub_category();
+		if($user_type==1){
+		$this->load->view('admin/admin_header');
+		$this->load->view('admin/category/view_sub_category',$datas);
+		$this->load->view('admin/admin_footer');
+		}
+		else{
+		redirect('/');
+		}
+	}
 
 	public function create_trade()
 	{

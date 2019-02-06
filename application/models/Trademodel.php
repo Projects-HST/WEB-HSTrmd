@@ -9,9 +9,15 @@ Class Trademodel extends CI_Model
 
 
 
-      function getall_trade($user_id)
+      function get_all_category()
       {
-         $query="SELECT * FROM edu_trade WHERE pia_id='$user_id' ORDER BY id DESC";
+         $query="SELECT * FROM rmd_category ORDER BY id DESC";
+         $resultset=$this->db->query($query);
+         return $resultset->result();
+      }
+      function get_all_sub_category()
+      {
+         $query="SELECT rc.category_name,rs.* FROM rmd_sub_category as rs left join rmd_category rc on rc.id-rs.cat_id ORDER BY rs.id DESC";
          $resultset=$this->db->query($query);
          return $resultset->result();
       }
