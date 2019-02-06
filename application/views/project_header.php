@@ -86,8 +86,8 @@
     }
 
     .project_img{
-      padding-left: 0px;
-      padding-right: 0px;
+      padding-left: 3px;
+      padding-right: 3px;
     }
     .gallery-img{
       border: 2px solid #fff;
