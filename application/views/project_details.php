@@ -4,7 +4,7 @@
 			<!-- section title -->
 			<div class="col-md-2 text-center">
 				<a href="<?php echo base_url(); ?>home">
-					<img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo" style="    margin-left: -6px;">
+					<img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo">
 					</a>
 							<?php foreach($res_details as $rows_details){}
 								if($rows_details->cat_id=='1') { ?>
