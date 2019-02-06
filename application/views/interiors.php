@@ -32,7 +32,34 @@
             <div class="row no-padding" style="margin-bottom:40px;margin-top:20px;">
                 <div class="col-md-2">
                     <a href="<?php echo base_url(); ?>home">  <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo"></a>
-                    <div class="">
+
+
+
+                                        <nav class="navbar navbar-inverse">
+                                                <div class="navbar-header">
+                                                  <a class="navbar-brand" href="#">Menu Bar</a>
+                                                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                                    <span class="icon-bar"></span>
+                                                    <span class="icon-bar"></span>
+                                                    <span class="icon-bar"></span>
+                                                  </button>
+                                                </div>
+                                                <div class="navbar-collapse collapse">
+                                                  <div class="">
+                                                      <h3 class="" style="color:#646466;margin-top:20px;text-align:left;">Interiors</h3>
+                                                      <ul class="portfolio-filter nav nav-tabs">
+                                                        <li class="nav"><a href="#" id="all">All </a></li>
+                                                        <li class="nav"><a href="#" id="corporate">Corporate </a></li>
+                                                        <li class="nav"><a href="#" id="cinemas">Cinemas </a></li>
+                                                        <li class="nav"><a href="#" id="hospitality">Hospitality</a></li>
+                                                        <li class="nav"><a href="#" id="residence">Residence</a></li>
+
+                                                      </ul>
+                                                  </div>
+
+                                        </div>
+                                      </nav>
+                    <!-- <div class="">
                         <h3 class="" style="color:#646466;margin-top:20px;text-align:left;">Interiors</h3>
                         <ul class="portfolio-filter nav nav-tabs">
                           <li class="nav"><a href="#" id="all">All </a></li>
@@ -42,7 +69,7 @@
                           <li class="nav"><a href="#" id="residence">Residence</a></li>
 
                         </ul>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-md-10">
 

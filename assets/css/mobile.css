@@ -3,7 +3,9 @@
 .nav-tabs{
   display: inline;
 }
-
+.navbar-toggle{
+  background-color: #000;
+}
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -14,15 +16,25 @@
   display: inline-block !important;
 }
 .navbar-header{
-  display: none;
+  display: block;
+}
+.navbar-inverse{
+  background-color: grey;
+}
+.navbar-toggle{
+  background-color: #000;
 }
 
 }
 
+/* .navbar-expand-lg{display: none;} */
 
-
-
-
+.navbar-inverse{
+  background-color: #fff;
+}
+.navbar-brand{
+  display:none;
+}
 .content {
   position: relative;
   width: 100%;

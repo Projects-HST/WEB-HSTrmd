@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/responsive.css" />
 
 
+
 </head>
 
 <body>
@@ -34,18 +35,45 @@
                     <a href="<?php echo base_url(); ?>home">  <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo"></a>
 
 
-                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-      <span class="navbar-toggler-icon"></span>
-        <span class="navbar-toggler-icon"></span>
-  </button>
-                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                      <div class="navbar-nav">
+                    <nav class="navbar navbar-inverse">
+                            <div class="navbar-header">
+                              <a class="navbar-brand" href="#">Menu Bar</a>
+                              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                              </button>
+                            </div>
+                            <div class="navbar-collapse collapse">
+                              <div class="">
+                                  <h3 class="" style="color:#646466;margin-top:20px;text-align:left;">Architecture</h3>
+                                  <ul class="portfolio-filter nav nav-tabs">
+                                      <li class=""><a href="#" id="all">All </a></li>
+                                      <li class=""><a href="#" id="comm">Commercial </a></li>
+                                      <li class=""><a href="#" id="condominiums">Condominiums</a></li>
+                                      <li class=""><a href="#" id="hospitality">Hospitality</a></li>
+                                      <li class=""><a href="#" id="industrial">Industrial</a></li>
+                                      <li class=""><a href="#" id="institution">Institutional</a></li>
+                                      <li class=""><a href="#" id="residence">Residences</a></li>
+
+                                  </ul>
+                              </div>
+
+                    </div>
+                  </nav>
 
 
-                    <div class="">
+
+
+
+
+
+
+
+
+
+                    <!-- <div class="">
                         <h3 class="" style="color:#646466;margin-top:20px;text-align:left;">Architecture</h3>
                         <ul class="portfolio-filter nav nav-tabs">
                             <li class=""><a href="#" id="all">All </a></li>
@@ -57,11 +85,12 @@
                             <li class=""><a href="#" id="residence">Residences</a></li>
 
                         </ul>
-                    </div>
+                    </div> -->
 
-                  </div>
-              </div>
-            </nav>
+
+
+
+
 
                 </div>
                 <div class="col-md-10">

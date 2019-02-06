@@ -8,30 +8,58 @@
 					</a>
 							<?php foreach($res_details as $rows_details){}
 								if($rows_details->cat_id=='1') { ?>
-									<div class="">
-										<h3 class="" style="color:#646466;margin-top:20px;text-align:left;margin-left:-5px;">Architecture</h3>
-										<ul class="portfolio-filter nav nav-tabs">
-											<li class=""><a href="#" id="all">All </a></li>
-											<li class=""><a href="#" id="comm">Commercial </a></li>
-											<li class="">	<a href="#" id="condominiums">Condominiums</a></li>
-											<li class="">	<a href="#" id="hospitality">Hospitality</a></li>
-											<li class=""><a href="#" id="industrial">Industrial</a></li>
-											<li class=""><a href="#" id="institution">Institutional</a></li>
-											<li class=""><a href="#" id="residence">Residences</a></li>
-										</ul>
-									</div>
-								<?php }else{?>
-									<div class="">
-											<h3 class="" style="color:#646466;margin-top:20px;text-align:left;">Interiors</h3>
-											<ul class="portfolio-filter nav nav-tabs">
-												<li class="nav"><a href="#" id="all">All </a></li>
-												<li class="nav"><a href="#" id="corporate">Corporate </a></li>
-												<li class="nav"><a href="#" id="cinemas">Cinemas </a></li>
-												<li class="nav"><a href="#" id="hospitality">Hospitality</a></li>
-												<li class="nav"><a href="#" id="residence">Residence</a></li>
 
-											</ul>
+                    <nav class="navbar navbar-inverse">
+                            <div class="navbar-header">
+                              <a class="navbar-brand" href="#">Menu Bar</a>
+                              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                              </button>
+                            </div>
+                            <div class="navbar-collapse collapse">
+                              <div class="">
+                                  <h3 class="" style="color:#646466;margin-top:20px;text-align:left;">Architecture</h3>
+                                  <ul class="portfolio-filter nav nav-tabs">
+                                      <li class=""><a href="#" id="all">All </a></li>
+                                      <li class=""><a href="#" id="comm">Commercial </a></li>
+                                      <li class=""><a href="#" id="condominiums">Condominiums</a></li>
+                                      <li class=""><a href="#" id="hospitality">Hospitality</a></li>
+                                      <li class=""><a href="#" id="industrial">Industrial</a></li>
+                                      <li class=""><a href="#" id="institution">Institutional</a></li>
+                                      <li class=""><a href="#" id="residence">Residences</a></li>
+
+                                  </ul>
+                              </div>
+
+                    </div>
+                  </nav>
+								<?php }else{?>
+									<nav class="navbar navbar-inverse">
+													<div class="navbar-header">
+														<a class="navbar-brand" href="#">Menu Bar</a>
+														<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+															<span class="icon-bar"></span>
+															<span class="icon-bar"></span>
+															<span class="icon-bar"></span>
+														</button>
+													</div>
+													<div class="navbar-collapse collapse">
+														<div class="">
+																<h3 class="" style="color:#646466;margin-top:20px;text-align:left;">Interiors</h3>
+																<ul class="portfolio-filter nav nav-tabs">
+																	<li class="nav"><a href="#" id="all">All </a></li>
+																	<li class="nav"><a href="#" id="corporate">Corporate </a></li>
+																	<li class="nav"><a href="#" id="cinemas">Cinemas </a></li>
+																	<li class="nav"><a href="#" id="hospitality">Hospitality</a></li>
+																	<li class="nav"><a href="#" id="residence">Residence</a></li>
+
+																</ul>
+														</div>
+
 									</div>
+								</nav>
 							<?php	} ?>
 
 

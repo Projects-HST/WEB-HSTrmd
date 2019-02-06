@@ -74,12 +74,31 @@
                       <div class="row no-padding" style="margin-bottom:40px;margin-top:20px;">
                     <div class="col-md-2" style="padding-left:0px;">
                           <a href="<?php echo base_url(); ?>home">  <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo"></a>
-						   <div class="">
+						                     <!-- <div class="">
                                     <ul class="portfolio-filter nav nav-tabs" >
                                       <li class=""><a href="#" id="comm">Contact </a></li>
 
                                     </ul>
+                                </div> -->
+                                <nav class="navbar navbar-inverse">
+                                        <div class="navbar-header">
+                                          <a class="navbar-brand" href="#">Menu Bar</a>
+                                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                          </button>
+                                        </div>
+                                        <div class="navbar-collapse collapse">
+                                          <div class="">
+                                             <ul class="portfolio-filter nav nav-tabs" >
+                                               <li class=""><a href="#" id="comm">Contact </a></li>
+
+                                             </ul>
+                                         </div>
+
                                 </div>
+                              </nav>
 
                     </div>
                     <div class="col-md-3">
