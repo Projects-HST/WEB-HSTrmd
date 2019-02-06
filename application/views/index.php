@@ -139,7 +139,7 @@
                                 <img alt="" src="<?php echo base_url(); ?>assets/banner_logo.png" class="logo web_logo"  style=""/>
                               <span class="white-text text-small text-uppercase letter-spacing-10 menu_box">
                                 <a href="<?php echo base_url(); ?>architecture" class="center_menu">Architecture</a>
-                                <a href="<?php echo base_url(); ?>interiors" class="center_menu">Interiors</a>
+                                <a href="<?php echo base_url(); ?>interior" class="center_menu">Interiors</a>
                                 <a href="<?php echo base_url(); ?>about" class="center_menu">About</a>
                                 <a href="<?php echo base_url(); ?>contact" class="center_menu">Contact</a>
                               </span>
@@ -157,7 +157,7 @@
                               <img alt="" src="<?php echo base_url(); ?>assets/banner_logo.png" class="logo web_logo"  style=""/>
                             <span class="white-text text-small text-uppercase letter-spacing-10 menu_box">
                               <a href="<?php echo base_url(); ?>architecture" class="center_menu">Architecture</a>
-                              <a href="<?php echo base_url(); ?>interiors" class="center_menu">Interiors</a>
+                              <a href="<?php echo base_url(); ?>interior" class="center_menu">Interiors</a>
                               <a href="<?php echo base_url(); ?>about" class="center_menu">About</a>
                               <a href="<?php echo base_url(); ?>contact" class="center_menu">Contact</a>
                             </span>
@@ -176,7 +176,7 @@
                             <span class="white-text text-small text-uppercase letter-spacing-10 menu_box">
 
                               <a href="<?php echo base_url(); ?>architecture" class="center_menu">Architecture</a>
-                              <a href="<?php echo base_url(); ?>interiors" class="center_menu">Interiors</a>
+                              <a href="<?php echo base_url(); ?>interior" class="center_menu">Interiors</a>
                               <a href="<?php echo base_url(); ?>about" class="center_menu">About</a>
                               <a href="<?php echo base_url(); ?>contact" class="center_menu">Contact</a>
                             </span>

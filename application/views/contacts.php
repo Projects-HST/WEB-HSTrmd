@@ -118,7 +118,7 @@
                         <div class="row footer_row">
                             <div class="col-md-8 col-sm-8 col-xs-12  text-left footer_menu">
                               <a href="<?php echo base_url(); ?>architecture">Architecture</a>
-                              <a href="<?php echo base_url(); ?>interiors">Interiors</a>
+                              <a href="<?php echo base_url(); ?>interior">Interiors</a>
                               <a href="<?php echo base_url(); ?>about">About</a>
                               <a href="<?php echo base_url(); ?>contact">Contact</a>
                             </div>
