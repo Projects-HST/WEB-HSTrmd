@@ -126,13 +126,16 @@
 						<div class="modal-content">
 							<div class="modal-header">
 								<a class="close" data-dismiss="modal" aria-hidden="true" style="color:#fff;font-size:12px;opacity:1;margin-top:8px;">X  </a>
-								<h4 class="modal-title" id="myModalLabel">Access House</h4>
+								<h4 class="modal-title" id="myModalLabel"><?php echo $rows_details->project_name; ?></h4>
 							</div>
-							<?php 			foreach($res_gallery as $rows_gallery){ ?>
-							<div class="col-md-12 img_popup">
-								<img src="<?php echo base_url(); ?>assets/gallery/<?php echo $rows_gallery->gallery_img; ?>" class="rounded mx-auto d-block modal_img" alt="">
-								</div>
-							<?php } ?>
+							<div class="modal-body">
+								<?php 			foreach($res_gallery as $rows_gallery){ ?>
+								<div class="col-md-12 col-sm-12">
+									<img src="<?php echo base_url(); ?>assets/gallery/<?php echo $rows_gallery->gallery_img; ?>" class="img-responsive" alt="">
+									</div>
+								<?php } ?>
+		 </div>
+
 
 									<div class="modal-footer">
 										<button type="button" class="btn btn-default close_btn" data-dismiss="modal" style="margin-right:10px;">Close</button>
@@ -140,3 +143,15 @@
 								</div>
 							</div>
 						</div>
+
+						<!-- The Modal -->
+
+						<!-- <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+        <div class="modal-body">
+            <img src="//placehold.it/1000x600" class="img-responsive">
+        </div>
+    </div>
+  </div>
+</div> -->

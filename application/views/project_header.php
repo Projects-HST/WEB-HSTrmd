@@ -97,9 +97,7 @@
       display: inline-block;
     }
 
-    img {
-      display: block;
-    }
+
 
     .gallery-img:hover img {
         opacity: 0.1;
@@ -109,9 +107,9 @@
       width: 100%;
 
     }
-    .modal-dialog{
+    /* .modal-dialog{
       width: 1000px;
-    }
+    } */
     .modal_img{
       width: 100%;
       height: auto;
