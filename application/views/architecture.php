@@ -54,7 +54,7 @@
                                       <li class=""><a href="#" id="condominiums">Condominiums</a></li>
                                       <li class=""><a href="#" id="hospitality">Hospitality</a></li>
                                       <li class=""><a href="#" id="industrial">Industrial</a></li>
-                                      <li class=""><a href="#" id="institution">Institutional</a></li>
+                                      <li class=""><a href="#" id="institutional ">Institutional</a></li>
                                       <li class=""><a href="#" id="residence">Residences</a></li>
 
                                   </ul>
@@ -198,7 +198,7 @@
             $('.residences').show();
             $('.hospitality').show();
             $('.condominiums').show();
-            $('.institution').show();
+            $('.institutional ').show();
             $('.industrial').show();
         });
 
@@ -207,7 +207,7 @@
           $('.residences').hide();
           $('.hospitality').hide();
           $('.condominiums').hide();
-          $('.institution').hide();
+          $('.institutional ').hide();
           $('.industrial').hide();
         });
         $("#condominiums").click(function () {
@@ -215,7 +215,7 @@
           $('.residences').hide();
           $('.hospitality').hide();
           $('.condominiums').show();
-          $('.institution').hide();
+          $('.institutional ').hide();
           $('.industrial').hide();
         });
 
@@ -224,7 +224,7 @@
           $('.residences').show();
           $('.hospitality').hide();
           $('.condominiums').hide();
-          $('.institution').hide();
+          $('.institutional ').hide();
           $('.industrial').hide();
         });
         $("#hospitality").click(function () {
@@ -232,15 +232,15 @@
           $('.residences').hide();
           $('.hospitality').show();
           $('.condominiums').hide();
-          $('.institution').hide();
+          $('.institutional ').hide();
           $('.industrial').hide();
         });
-        $("#institution").click(function () {
+        $("#institutional").click(function () {
           $('.commerical').hide();
           $('.residences').hide();
           $('.hospitality').hide();
           $('.condominiums').hide();
-          $('.institution').show();
+          $('.institutional ').show();
           $('.industrial').hide();
         });
         $("#industrial").click(function () {
@@ -248,7 +248,7 @@
           $('.residences').hide();
           $('.hospitality').hide();
           $('.condominiums').hide();
-          $('.institution').hide();
+          $('.institutional ').hide();
           $('.industrial').show();
         });
 
