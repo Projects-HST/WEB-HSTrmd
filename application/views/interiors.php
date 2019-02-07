@@ -172,33 +172,33 @@
             $('.corporate').show();
             $('.residence').show();
             $('.cinemas').show();
-            $('.hospitality').show();
+            $('.hosptiality').show();
         });
 
         $("#corporate").click(function () {
           $('.corporate').show();
           $('.residence').hide();
           $('.cinemas').hide();
-          $('.hospitality').hide();
+          $('.hosptiality').hide();
         });
         $("#residence").click(function () {
           $('.corporate').hide();
           $('.residence').show();
           $('.cinemas').hide();
-          $('.hospitality').hide();
+          $('.hosptiality').hide();
         });
 
         $("#cinemas").click(function () {
           $('.corporate').hide();
           $('.residence').hide();
           $('.cinemas').show();
-          $('.hospitality').hide();
+          $('.hosptiality').hide();
         });
         $("#hospitality").click(function () {
           $('.corporate').hide();
           $('.residence').hide();
           $('.cinemas').hide();
-          $('.hospitality').show();
+          $('.hosptiality').show();
         });
 
 
