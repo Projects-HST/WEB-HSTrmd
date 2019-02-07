@@ -6,6 +6,15 @@
 .navbar-toggle{
   background-color: #000;
 }
+.menu_box{
+  display:inline-grid;
+  text-align: left;
+  left: 0px;
+  bottom: 0px !important;
+}
+.center_menu{
+  padding-bottom: 3px;
+}
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -23,6 +32,15 @@
 }
 .navbar-toggle{
   background-color: #000;
+}
+.menu_box{
+  display:inline-grid;
+  text-align: left;
+  left: 0px;
+  bottom: 0px !important;
+}
+.center_menu{
+  padding-bottom: 3px;
 }
 
 }
