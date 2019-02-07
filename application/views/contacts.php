@@ -113,7 +113,7 @@
 
                     </div>
 
-                    <div class="col-md-7" style="margin-top:20px;">
+                    <div class="col-md-7">
                       <!-- <h3 class="area-title text-capitalize  margin-20px-bottom font-weight-300 sm-width-100 xs-width-100" style="    color: #f9a036;    font-size: 30px;">
                          Work With Us</h3><br>
                          <form action="" method="post">

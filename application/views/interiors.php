@@ -75,7 +75,7 @@
 
                         <div class="row">
                               <?php foreach($res as $rows){ ?>
-                            <div class="col-md-4 col-lg-4 col-sm-6 <?php echo lcfirst($rows->sub_category_name); ?> project_thumb">
+                            <div class="col-md-4 col-lg-4 col-sm-6 <?php echo lcfirst($rows->sub_category_name);?> project_thumb">
                                 <div class="content">
                                     <a href="<?php echo base_url(); ?>project_details/<?php echo $rows->id; ?>" >
                                         <div class="content-overlay"></div>
