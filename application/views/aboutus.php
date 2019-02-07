@@ -84,7 +84,7 @@ column-gap: 1em;
 @media(min-width: 60em) {
 #masonry {
 column-count: 3;
-column-gap: 1em;
+column-gap: 10px;
 }
 }
 
