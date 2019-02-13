@@ -148,7 +148,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-4 col-md-7 col-sm-7 col-xs-12">
-                                        <img src="<?php echo base_url(); ?>assets/gallery/<?php $rows->cover_photo; ?>" width="100">
+                                        <img src="<?php echo base_url(); ?>assets/gallery/<?php echo $rows->cover_photo; ?>" width="100">
                                     </div>
                                 </div>
                             </div>
