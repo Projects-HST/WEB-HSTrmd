@@ -78,7 +78,7 @@ Class Centermodel extends CI_Model
 
        function update_project($project_name,$location,$city,$completed,$cat_id,$sub_cat_id,$status,$center_logo,$size,$project_id){
            $id=base64_decode($project_id)/98765;
-          $update="UPDATE rmd_project_gallery SET project_name='$project_name',location='$location',city='$city',completed='$completed',cat_id='$cat_id',sub_cat_id='$sub_cat_id',status='$status',size='$size',cover_photo='$center_logo' WHERE id='$id'";
+          $update="UPDATE rmd_project_gallery SET project_name='$project_name',location='$location',city='$city',completed='$completed',cat_id='$cat_id',sub_cat_id='$sub_cat_id',status='$status',size='$size',cover_photo='$center_logo',created_at=NOW() WHERE id='$id'";
 
           $result=$this->db->query($update);
           if($result){
@@ -189,12 +189,12 @@ Class Centermodel extends CI_Model
             return $get_all->result();
           }
           function get_architecture(){
-            $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.status='Active' AND rp.cat_id=1 order by rp.id ASC";
+            $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.status='Active' AND rp.cat_id=1 order by rp.created_at desc";
             $get_all=$this->db->query($select);
             return $get_all->result();
           }
           function get_interiors(){
-            $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.status='Active' AND rp.cat_id=2 order by rp.id ASC";
+            $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.status='Active' AND rp.cat_id=2 order by rp.created_at desc";
             $get_all=$this->db->query($select);
             return $get_all->result();
           }
