@@ -200,7 +200,7 @@ opacity:1;
 background-color: red;
 }
 .profile_details{
-  margin-top: 70px;
+  margin-top: 35px;
 }
 .profile_img{
   text-align: center;
@@ -263,8 +263,8 @@ background-color: red;
                             <div class="col-md-10 about_section" >
                               <div class="row">
 
-                                <h3 class="" style="margin-bottom:10px; margin-top:0px;   font-size: 16px; text-align:justify;   line-height: 20px;"><span class=" font-weight-500" style="color:#f9a036;line-height: 20px;">Mhetras Design, established in the year 2002, is a dynamic architecture and interior design practice with a diverse portfolio of projects.</span></h3>
-                                <p class="text-med" style="text-align:justify;line-height: 20px;">Our principals Rajit and Sheetal Mhetras have over 20 years of experience designing a variety of projects ranging from small apartments, restaurants, large residential complexes, cineplexes, community centres, boutique & experiential hotels and bespoke individual homes in addition to corporate interiors not just in India but overseas as well. At the heart of every successful project that we have executed over the years is an inane understanding of client's needs thereby helping us deliver flawless designs that meet and exceed their expectations.The environmental factors wherein a project is situated plays an important part in our design process which includes the selection of appropriate building technologies and materials to work in harmony with the local environmental conditions.We believe in long term customer satisfaction which stems from the holistic design process that we follow combined with focus on sustainability of the buildings and end use of the project.This client centric design philosophy which is the core of our firm has had most of our clients coming back for multiple projects.Wherever the client desires, we incorporate all the primary principles of Vaasthu into our designs.
+                                <h3 class="" style="margin-bottom:10px; margin-top:0px;font-size: 16px; text-align:justify;   line-height: 20px;"><span class=" font-weight-500" style="color:#f9a036;line-height: 20px;">Mhetras Design, established in the year 2002, is an architecture and interior design firms with a diverse portfolio of projects.</span></h3>
+                                <p class="text-med" style="text-align:justify;line-height: 20px;">Our principals Rajit and Sheetal Mhetras have over 20 years of experience designing a variety of projects ranging from small apartments, restaurants, large residential complexes, cineplexes, community centres, boutique & experiential hotels and bespoke individual homes in addition to corporate interiors not just in India but overseas as well. At the heart of every successful project that we have executed over the years is an inane understanding of client's needs thereby helping us deliver flawless designs that meet and exceed their expectations. The environmental factors wherein a project is situated plays an important part in our design process which includes the selection of appropriate building technologies and materials to work in harmony with the local environmental conditions. We believe in long term customer satisfaction which stems from the holistic design process that we follow combined with focus on sustainability of the buildings and end use of the project. This client centric design philosophy which is the core of our firm has had most of our clients coming back for multiple projects. Wherever the client desires, we incorporate all the primary principles of Vaasthu into our designs.
 </p>
 
                                 </div>
@@ -320,12 +320,11 @@ background-color: red;
                                               <!-- <img src="images/team_members.jpg" alt=""> -->
                                               <h3 class="profile_img">Photo</h3>
                                           </div>
-                                        <div class="col-md-5 profile_details">
-                                              <h2>Rajit Mhetras</h2>
-                                              <span class="person-post">Designation</span>
-                                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
+                                        <div class="col-md-9 profile_details">
+                                              <h2 style="font-size:20px;">Rajit Mhetras</h2>
+                                              <!--<span class="person-post">Designation</span>-->
+                                               <p class="text-med" style="margin-top:10px;text-align:justify;line-height: 20px;">Rajit studied Bachelor of Architecture from BMS College of Engineering, Bangalore in 1995. He is the Principal Designer at Mhetras design and he joined the firm in 2008 after garnering a multitude of work experience. Spacial planning and attention to detail are his strengths and it shows notably in all his projects. </p>
                                         </div>
-                                        <div class="col-md-2"></div>
                                     </div>
 
                                     <div class="row" style="margin-left:0px;">
@@ -333,12 +332,11 @@ background-color: red;
                                         <div class="col-md-3">
                                             <h3 class="profile_img">Photo</h3>
                                         </div>
-                                      <div class="col-md-5 profile_details">
-                                            <h2>Sheetal Mhetras</h2>
-                                            <span class="person-post">Designation</span>
-                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
+                                      <div class="col-md-9 profile_details">
+                                            <h2 style="font-size:20px;">Sheetal Mhetras</h2>
+                                            <!--<span class="person-post">Designation</span>-->
+                                             <p class="text-med" style="margin-top:10px;text-align:justify;line-height: 20px;">Sheetal completed her Diploma in Interior Design in 2004. She started her practice at Mhetras Design in 2002 after a brief stint with an architect in Chennai. She handles all interior design related projects across multiple categories with a great sense of panache.  </p>
                                       </div>
-                                      <div class="col-md-2"></div>
                                   </div>
 
                                   <div class="row" style="margin-left:0px;">
@@ -346,12 +344,11 @@ background-color: red;
                                       <div class="col-md-3">
                                           <h3 class="profile_img">Photo</h3>
                                       </div>
-                                    <div class="col-md-5 profile_details">
-                                          <h2>Prem</h2>
-                                          <span class="person-post">Designation</span>
-                                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
+                                    <div class="col-md-9 profile_details">
+                                          <h2 style="font-size:20px;">Prem</h2>
+                                          <!--<span class="person-post">Designation</span>-->
+                                           <p class="text-med" style="margin-top:10px;text-align:justify;line-height: 20px;">Prem studied Bachelor of Architecture from Hindustan University in 2008. Since then, he is associated with the firm and handles technical aspects of all projects with design detailing as his core strength.</p>
                                     </div>
-                                    <div class="col-md-2"></div>
                                   </div>
 
 
@@ -360,12 +357,11 @@ background-color: red;
                                       <div class="col-md-3">
                                           <h3 class="profile_img">Photo</h3>
                                       </div>
-                                    <div class="col-md-5 profile_details">
-                                          <h2>Umais</h2>
-                                          <span class="person-post">Designation</span>
-                                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</p>
+                                    <div class="col-md-9 profile_details">
+                                          <h2 style="font-size:20px;">Umais</h2>
+                                          <!--<span class="person-post">Designation</span>-->
+                                           <p class="text-med" style="margin-top:10px;text-align:justify;line-height: 20px;">Umais studied Bachelor of Architecture from Measi Academy of Architecture in 2009. Since then, he is associated with the firm and handles design and execution of projects. </p>
                                     </div>
-                                    <div class="col-md-2"></div>
                                   </div>
 
 
