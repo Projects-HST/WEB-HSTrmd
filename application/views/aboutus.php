@@ -201,6 +201,8 @@ background-color: red;
 }
 .profile_details{
   margin-top: 35px;
+  padding-left: 25px;
+padding-right: 25px;
 }
 .profile_img{
   text-align: center;
