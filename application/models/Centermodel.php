@@ -56,14 +56,14 @@ Class Centermodel extends CI_Model
           }
 
           function view_architecture(){
-            $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.cat_id=1 order by id desc";
+            $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.cat_id=1 order by rp.created_at ASC";
             $get_all=$this->db->query($select);
             return $get_all->result();
           }
 
 
             function view_interiors(){
-              $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.cat_id=2 order by id desc";
+              $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.cat_id=2 order by rp.created_at ASC";
               $get_all=$this->db->query($select);
               return $get_all->result();
             }
