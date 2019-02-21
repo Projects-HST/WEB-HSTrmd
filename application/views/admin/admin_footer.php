@@ -1,16 +1,31 @@
-<div class="footer-copyright-area">
+<div class="footer-copyright-area footer">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="footer-copy-right">
-                    <p>Copyright © 2019
-<a href="#" >Happy Sanz Tech</a>. All rights reserved. Template by <a href="http://happysanztech.com/" target="_blank">Happy Sanz Tech</a>.</p>
+                    <p> Powered by <a href="http://happysanztech.com/" target="_blank">Happy Sanz Tech</a>.</p>
                 </div>
             </div>
         </div>
     </div>
 </div>
 </body>
+<style>
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: fixed;
+   margin: auto;
+   height: auto;
+   width: 100%;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   z-index: 1030;
+}
+</style>
 <!-- jquery
 ============================================ -->
 <!-- datapicker JS

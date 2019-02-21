@@ -175,6 +175,17 @@ Class Centermodel extends CI_Model
         }
 
 
+        function get_count_architecture(){
+          $select="SELECT count(*) as count_arch FROM rmd_project_gallery where cat_id='1'";
+          $get_all=$this->db->query($select);
+          return $get_all->result();
+        }
+        function get_count_interiors(){
+          $select="SELECT count(*) as count_int FROM rmd_project_gallery where cat_id='2'";
+          $get_all=$this->db->query($select);
+          return $get_all->result();
+        }
+
 
           // Front end function
           function get_project_details($id){

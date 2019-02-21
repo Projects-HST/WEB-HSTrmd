@@ -9,7 +9,7 @@ class Dashboard extends CI_Controller {
 			$this->load->helper('url');
 			$this->load->library('session');
 			$this->load->model('loginmodel');
-			// $this->load->model('dashboard');
+			$this->load->model('centermodel');
 
 			 }
 
@@ -27,6 +27,8 @@ class Dashboard extends CI_Controller {
 				  $user_type=$this->session->userdata('user_type');
 					$datas['result'] = $this->loginmodel->getuser($user_id);
 					if($user_type==1){
+						$datas['res_arch_count'] = $this->centermodel->get_count_architecture();
+						$datas['res_int_count'] = $this->centermodel->get_count_interiors();
 						$this->load->view('admin/admin_header');
 						$this->load->view('admin/admin_home',$datas);
 						$this->load->view('admin/admin_footer');
