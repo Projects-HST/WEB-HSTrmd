@@ -12,7 +12,6 @@
 </body>
 <style>
 body {
-  /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
 .footer {
