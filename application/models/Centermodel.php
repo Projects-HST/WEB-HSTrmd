@@ -196,12 +196,12 @@ Class Centermodel extends CI_Model
             return $get_all->result();
           }
           function get_architecture(){
-            $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.status='Active' AND rp.cat_id=1 order by rp.created_at ASC";
+            $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.status='Active' AND rp.cat_id=1 order by rp.created_at DESC";
             $get_all=$this->db->query($select);
             return $get_all->result();
           }
           function get_interiors(){
-            $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.status='Active' AND rp.cat_id=2 order by rp.created_at ASC";
+            $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rp.sub_cat_id=rs.id where rp.status='Active' AND rp.cat_id=2 order by rp.created_at DESC";
             $get_all=$this->db->query($select);
             return $get_all->result();
           }
