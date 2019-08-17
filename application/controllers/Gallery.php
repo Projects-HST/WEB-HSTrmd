@@ -183,10 +183,10 @@ class Gallery extends CI_Controller {
 				$datas=$this->centermodel->update_project($project_name,$location,$city,$completed,$cat_id,$sub_cat_id,$status,$center_logo,$size,$project_id);
 				if($datas['status']=="success"){
 					$this->session->set_flashdata('msg', 'Updated Successfully');
-					redirect('gallery/home');
+					redirect('gallery/get_project_id_details/'.$project_id.'');
 				}else{
 					$this->session->set_flashdata('msg', 'Failed to Add');
-					redirect('gallery/home');
+					redirect('gallery/get_project_id_details/'.$project_id.'');
 				}
 			}else{
 					redirect('/');
