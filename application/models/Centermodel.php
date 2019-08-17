@@ -10,10 +10,6 @@ Class Centermodel extends CI_Model
 		    $this->load->helper('url');
         $this->load->helper("file");
 
-
-
-
-
  }
 
 

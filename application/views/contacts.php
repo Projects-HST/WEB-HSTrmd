@@ -72,7 +72,7 @@
       <section id="portfolio" class="grid-wrap work-4col margin-top-section no-margin-top no-padding-bottom wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
                   <div class="container">
                       <div class="row no-padding" style="margin-bottom:40px;margin-top:20px;">
-                    <div class="col-md-2" style="padding-left:0px;">
+                    <div class="col-md-2">
                           <a href="<?php echo base_url(); ?>home">  <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo"></a>
 						                     <!-- <div class="">
                                     <ul class="portfolio-filter nav nav-tabs" >
@@ -108,23 +108,19 @@
 
                     <p style="    font-size: 14px;    font-style: normal;    font-weight: 500;">
 
-					#4, 1st Floor, 3rd Avenue,<br> Harrington road, Chetpet,<br> Chennai - 600 031,</p>
+                      MHETRAS DESIGN.<br>
+                    Harrington apartment, <br>
+                    Flat No.12, 3rd Floor,<br>
+                    No.98 Harrington Road, Chetput,<br>
+                    Chennai-600031, Tamilnadu‎, India.<br>
+                    044 28360263</p>
                       <a href="mailto:admin@rmd.co.in" style="font-size:16px;">admin@rmd.co.in</a>
 
                     </div>
 
                     <div class="col-md-7">
-                      <!-- <h3 class="area-title text-capitalize  margin-20px-bottom font-weight-300 sm-width-100 xs-width-100" style="    color: #f9a036;    font-size: 30px;">
-                         Work With Us</h3><br>
-                         <form action="" method="post">
-                        <input name="name" type="text" placeholder="Your Name">
-                          <input name="name" type="text" placeholder="Your Mobile">
-                        <input name="email" type="text" placeholder="Your Email">
-                        <textarea name="messge" rows="7" placeholder="Message"></textarea>
-                        <input type="submit" name="submit" value="Submit">
-                      </form> -->
-
-                        <iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?f=d&amp;source=s_d&amp;saddr=McNichols+Rd,+Chetpet,+Chennai,+Tamil+Nadu+600031&amp;daddr=&amp;hl=en&amp;geocode=CUJA1R628-YeFfp3xwAdX2HIBCkhPsT4emZSOjF2pi6JmZZuYg&amp;sll=13.072419,80.240992&amp;sspn=0.001419,0.002642&amp;mra=mift&amp;ie=UTF8&amp;t=m&amp;ll=13.072419,80.240992&amp;spn=0.00209,0.00228&amp;z=18&amp;output=embed"></iframe>
+                                        
+                        <iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4851875205677!2d80.2360915146787!3d13.068407690792421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52667a52061e33%3A0xa53cef8f6316c60d!2sMhetras+Design!5e0!3m2!1sen!2sin!4v1566040486225!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                     </div>
                 </div>
