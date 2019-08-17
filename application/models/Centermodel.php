@@ -74,7 +74,7 @@ Class Centermodel extends CI_Model
 
        function update_project($project_name,$location,$city,$completed,$cat_id,$sub_cat_id,$status,$center_logo,$size,$project_id){
            $id=base64_decode($project_id)/98765;
-          echo $update="UPDATE rmd_project_gallery SET project_name='$project_name',location='$location',city='$city',completed='$completed',cat_id='$cat_id',sub_cat_id='$sub_cat_id',status='$status',size='$size',cover_photo='$center_logo',created_at=NOW() WHERE id='$id'";
+           $update="UPDATE rmd_project_gallery SET project_name='$project_name',location='$location',city='$city',completed='$completed',cat_id='$cat_id',sub_cat_id='$sub_cat_id',status='$status',size='$size',cover_photo='$center_logo',created_at=NOW() WHERE id='$id'";
 
           $result=$this->db->query($update);
           if($result){
