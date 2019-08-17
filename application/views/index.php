@@ -130,7 +130,7 @@
         <section id="slider" class="no-padding">
             <div id="owl-demo" class="owl-carousel owl-theme light-pagination square-pagination dark-pagination-without-next-prev-arrow main-slider">
                 <!-- slider item -->
-                <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/banner_1.jpg');">
+                <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/1.jpg');">
                     <div class="opacity-full bg-dark-gray"></div>
                     <div class="container full-screen position-relative">
 
@@ -149,7 +149,7 @@
                 </div>
                 <!-- end slider item -->
                 <!-- slider item -->
-                <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/banner_4.jpg');">
+                <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/2.jpg');">
                     <div class="opacity-full bg-dark-gray"></div>
                     <div class="container full-screen position-relative">
                         <div class="slider-typography text-center">
@@ -167,7 +167,7 @@
                 </div>
                 <!-- end slider item -->
                 <!-- slider item -->
-                <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/banner_3.jpg');">
+                <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/3.jpg');">
                     <div class="opacity-full bg-dark-gray"></div>
                     <div class="container full-screen position-relative">
                         <div class="slider-typography text-center">
