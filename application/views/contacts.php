@@ -73,30 +73,28 @@
                   <div class="container">
                       <div class="row no-padding" style="margin-bottom:40px;margin-top:20px;">
                     <div class="col-md-2">
-                          <a href="<?php echo base_url(); ?>home">
-                            <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo"></a>
-
-                                <nav class="navbar navbar-inverse">
-                                        <div class="navbar-header">
-                                          <a class="navbar-brand" href="#">Menu Bar</a>
-                                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                                            <span class="icon-bar"></span>
-                                            <span class="icon-bar"></span>
-                                            <span class="icon-bar"></span>
-                                          </button>
-                                        </div>
-                                        <div class="navbar-collapse collapse">
-                                          <div class="">
-                                             <ul class="portfolio-filter nav nav-tabs" >
-                                               <li class=""><a href="#" id="comm">Contact </a></li>
-
-                                             </ul>
-                                         </div>
-
+                        <a href="<?php echo base_url(); ?>home">
+                          <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo"></a>
+                        <nav class="navbar navbar-inverse">
+                                <div class="navbar-header">
+                                  <a class="navbar-brand" href="#">Menu Bar</a>
+                                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                  </button>
                                 </div>
-                              </nav>
+                                <div class="navbar-collapse collapse">
+                                  <div class="">
+                                    <ul class="portfolio-filter nav nav-tabs" >
+                                      <li class=""><a href="#" id="comm">Contact </a></li>
 
-                    </div>
+                                    </ul>
+
+                                  </div>
+                        </div>
+                      </nav>
+                  </div>
                     <div class="col-md-3">
                       <h3 class="area-title text-capitalize  margin-20px-bottom font-weight-300 sm-width-100 xs-width-100 rmd_logo"
                       style="    color: #f9a036;    font-size: 30px;">

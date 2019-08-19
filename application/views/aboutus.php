@@ -228,8 +228,6 @@ background-color: red;
                         <div class="row no-padding" style="margin-bottom:40px;margin-top:20px;">
                             <div class="col-md-2">
                                   <a href="<?php echo base_url(); ?>home">  <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo"></a>
-
-
                                   <nav class="navbar navbar-inverse">
                                           <div class="navbar-header">
                                             <a class="navbar-brand" href="#">Menu Bar</a>
@@ -250,18 +248,7 @@ background-color: red;
 
                                   </div>
                                 </nav>
-
-                                <!-- <div class="">
-                                    <ul class="portfolio-filter nav nav-tabs" >
-                                      <li class=""><a href="#" id="comm">About </a></li>
-                                      <li class=""><a href="#studio" id="res">Studio</a></li>
-                                      <li class=""><a href="#team" id="residence">Team</a></li>
-                                    </ul>
-                                </div> -->
-
-
-
-                            </div>
+                          </div>
                             <div class="col-md-10 about_section" >
                               <div class="row">
 
