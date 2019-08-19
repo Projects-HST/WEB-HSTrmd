@@ -347,7 +347,7 @@
     .mega-menu-column:first-child { padding-left: 0; }
     .mega-menu-column:last-child { padding-left: 0; }
 
-    .navbar-toggle {border-radius: 0px;}
+    .navbar-toggle {border-radius: 0px;background-color: #000;}
     .navbar-default .navbar-toggle .icon-bar { background-color: #fff; }
     .navbar-default .navbar-toggle { background-color: #000;}
 
