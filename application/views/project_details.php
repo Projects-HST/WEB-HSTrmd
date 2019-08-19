@@ -159,4 +159,7 @@
 .pop_img{
 	margin-bottom: 10px;
 }
+.content-image{
+	cursor: pointer;
+}
 </style>
