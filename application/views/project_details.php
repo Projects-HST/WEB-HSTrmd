@@ -80,7 +80,7 @@
 								<b>Size :</b>
 								<p>  <?php echo $rows_details->size; ?></p>
 								<b>Address :</b>
-								<p><?php echo $rows_details->location; ?> <?php echo $rows_details->city; ?>
+								<p class="caps_letter"><?php echo $rows_details->location; ?> <?php echo $rows_details->city; ?>
 </p>
 								<b>Status :</b>
 								<p><?php echo $rows_details->completed; ?></p>
@@ -161,5 +161,8 @@
 }
 .content-image{
 	cursor: pointer;
+}
+.caps_letter{
+	    text-transform: capitalize;
 }
 </style>
