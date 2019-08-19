@@ -131,7 +131,7 @@
 							<div class="modal-body">
 								<?php 			foreach($res_gallery as $rows_gallery){ ?>
 								<div class="col-md-12 col-sm-12">
-									<img src="<?php echo base_url(); ?>assets/gallery/<?php echo $rows_gallery->gallery_img; ?>" class="img-responsive" alt="">
+									<img src="<?php echo base_url(); ?>assets/gallery/<?php echo $rows_gallery->gallery_img; ?>" class="img-responsive pop_img" alt="">
 									</div>
 								<?php } ?>
 		 </div>
@@ -155,3 +155,8 @@
     </div>
   </div>
 </div> -->
+<style>
+.pop_img{
+	margin-bottom: 10px;
+}
+</style>
