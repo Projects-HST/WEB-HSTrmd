@@ -73,13 +73,9 @@
                   <div class="container">
                       <div class="row no-padding" style="margin-bottom:40px;margin-top:20px;">
                     <div class="col-md-2">
-                          <a href="<?php echo base_url(); ?>home">  <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo"></a>
-						                     <!-- <div class="">
-                                    <ul class="portfolio-filter nav nav-tabs" >
-                                      <li class=""><a href="#" id="comm">Contact </a></li>
+                          <a href="<?php echo base_url(); ?>home">
+                            <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo"></a>
 
-                                    </ul>
-                                </div> -->
                                 <nav class="navbar navbar-inverse">
                                         <div class="navbar-header">
                                           <a class="navbar-brand" href="#">Menu Bar</a>
@@ -119,7 +115,7 @@
                     </div>
 
                     <div class="col-md-7">
-                                        
+
                         <iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4851875205677!2d80.2360915146787!3d13.068407690792421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52667a52061e33%3A0xa53cef8f6316c60d!2sMhetras+Design!5e0!3m2!1sen!2sin!4v1566040486225!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                     </div>
