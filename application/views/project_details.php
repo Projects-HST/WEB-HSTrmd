@@ -71,7 +71,7 @@
 					<div class="row">
 						<?php foreach($res_details as $rows_details){} ?>
 						<div class="col-md-4">
-							<h3 class="area-title text-capitalize  margin-20px-bottom font-weight-300 sm-width-100 xs-width-100"
+							<h3 class="area-title text-capitalize  margin-20px-bottom font-weight-300 sm-width-100 xs-width-100 caps_letter"
                                   style="color: #646466;font-size: 30px;height: 105px;">
                               <?php echo $rows_details->project_name; ?></h3>
 
@@ -126,7 +126,7 @@
 						<div class="modal-content">
 							<div class="modal-header">
 								<a class="close" data-dismiss="modal" aria-hidden="true" style="color:#fff;font-size:12px;opacity:1;margin-top:8px;">X  </a>
-								<h4 class="modal-title" id="myModalLabel"><?php echo $rows_details->project_name; ?></h4>
+								<h4 class="modal-title caps_letter" id="myModalLabel"><?php echo $rows_details->project_name; ?></h4>
 							</div>
 							<div class="modal-body">
 								<?php 			foreach($res_gallery as $rows_gallery){ ?>
@@ -162,7 +162,5 @@
 .content-image{
 	cursor: pointer;
 }
-.caps_letter{
-	    text-transform: capitalize;
-}
+
 </style>

@@ -75,7 +75,7 @@
                                         <img class="content-image" src="<?php echo base_url(); ?>assets/gallery/<?php echo $rows->cover_photo; ?>">
 
                                         <div class="middle">
-                                            <div class="text"><?php echo $rows->project_name; ?> <br><?php echo $rows->city; ?></div>
+                                            <div class="text caps_letter"><?php echo $rows->project_name; ?> <br><?php echo $rows->city; ?></div>
                                         </div>
                                     </a>
                                 </div>

@@ -202,3 +202,6 @@ padding: 45px 0px;
   padding-left: 5px;
   padding-right: 5px;
 }
+.caps_letter{
+	    text-transform: capitalize;
+}
