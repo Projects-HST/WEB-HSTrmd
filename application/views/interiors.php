@@ -52,7 +52,7 @@
                                                         <li class="nav"><a href="#" id="corporate">Corporate </a></li>
                                                         <li class="nav"><a href="#" id="cinemas">Cinemas </a></li>
                                                         <li class="nav"><a href="#" id="hospitality">Hospitality</a></li>
-                                                        <li class="nav"><a href="#" id="residence">Residence</a></li>
+                                                        <li class="nav"><a href="#" id="residence">Residences</a></li>
 
                                                       </ul>
                                                   </div>
