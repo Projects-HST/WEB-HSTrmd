@@ -95,7 +95,7 @@
 
 
                                   <div class="hd-mg-va">
-                                      <a href="<?php echo base_url(); ?>logout">Logout</a>
+                                      <a href="<?php echo base_url(); ?>login/logout">Logout</a>
                                   </div>
                               </div>
                           </li>

@@ -68,7 +68,7 @@ class Login extends CI_Controller {
 		$datas=$this->session->userdata();
 		$this->session->unset_userdata($datas);
 		$this->session->sess_destroy();
-		redirect('/');
+		redirect('home');
 	}
 
 	public function forgot_email(){
