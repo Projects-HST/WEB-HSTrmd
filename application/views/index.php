@@ -184,6 +184,23 @@
                         </div>
                     </div>
                 </div>
+                <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/4.jpg');">
+                    <div class="opacity-full bg-dark-gray"></div>
+                    <div class="container full-screen position-relative">
+                        <div class="slider-typography text-center">
+                          <div class="slider-text-middle-main">
+                              <img alt="" src="<?php echo base_url(); ?>assets/banner_logo.png" class="logo web_logo"  style=""/>
+                            <span class="white-text text-small text-uppercase letter-spacing-10 menu_box">
+
+                              <a href="<?php echo base_url(); ?>architecture" class="center_menu">Architecture</a>
+                              <a href="<?php echo base_url(); ?>interior" class="center_menu">Interiors</a>
+                              <a href="<?php echo base_url(); ?>about" class="center_menu">About</a>
+                              <a href="<?php echo base_url(); ?>contact" class="center_menu">Contact</a>
+                            </span>
+                          </div>
+                        </div>
+                    </div>
+                </div>
                 <!-- end slider item -->
             </div>
         </section>

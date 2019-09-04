@@ -100,15 +100,15 @@
                       style="    color: #f9a036;    font-size: 30px;">
                         ADDRESS</h3><br>
 
-                    <p style="    font-size: 14px;    font-style: normal;    font-weight: 500;">
+                    <p style="    font-size: 14px;font-style: normal;color: #000; font-weight: 500;margin-bottom: 0px;">
 
-                      MHETRAS DESIGN.<br>
+                    <b>  MHETRAS DESIGN</b><br>
                     Harrington apartment, <br>
                     Flat No.12, 3rd Floor,<br>
-                    No.98 Harrington Road, Chetput,<br>
-                    Chennai-600031, Tamilnadu‎, India.<br>
+                    No.98 Harrington Road,<br> Chetput,
+                    Chennai-600031, <br> Tamilnadu‎, India.<br><br>
                     044 28360263</p>
-                      <a href="mailto:admin@rmd.co.in" style="font-size:16px;">admin@rmd.co.in</a>
+                      <a href="mailto:admin@rmd.co.in" style="font-size:14px;">admin@rmd.co.in</a>
 
                     </div>
 
