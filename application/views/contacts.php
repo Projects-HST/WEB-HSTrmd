@@ -135,8 +135,8 @@
                             Crafted By <a href="https://happysanztech.com" target="_blank">Happy Sanz Tech</a>
                             </div> -->
                             <div class="col-md-4 col-sm-4 col-xs-12 footer-logo  text-right xs-text-center">
-                              <a target="_blank" href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
-                              <a target="_blank" href="https://twitter.com/"><i class="fa fa-instagram"></i></a>
+                              <a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+                              <a target="_blank" href="#"><i class="fa fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
