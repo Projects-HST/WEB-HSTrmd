@@ -207,8 +207,13 @@ background-color: red;
 .profile_img{
   text-align: center;
   border: 2px solid #dcdcdc;
-  padding: 85px;
+  /* padding: 85px; */
+  padding: 85px 50px 86px 50px;
+  font-size: 12px;
   margin-top: 40px;
+}
+h3 .fa{
+  color: #f8981d;
 }
 .about_section{
   padding-left: 30px;
@@ -308,10 +313,13 @@ background-color: red;
                                 <div class="row">
                                       <div class="row"  style="margin-left:0px;">
 
-                                          <div class="col-md-3">
-                                              <!-- <img src="images/team_members.jpg" alt=""> -->
-                                              <h3 class="profile_img">Photo</h3>
-                                          </div>
+                                        <div class="col-md-3">
+                                            <h3 class="profile_img">
+                                              <i class="fa fa-circle" aria-hidden="true"></i>
+                                              <i class="fa fa-circle" aria-hidden="true"></i>
+                                              <i class="fa fa-circle" aria-hidden="true"></i>
+                                            </h3>
+                                        </div>
                                         <div class="col-md-9 profile_details">
                                               <h2 style="font-size:20px;">Rajit Mhetras</h2>
                                               <!--<span class="person-post">Designation</span>-->
@@ -321,9 +329,13 @@ background-color: red;
 
                                     <div class="row" style="margin-left:0px;">
 
-                                        <div class="col-md-3">
-                                            <h3 class="profile_img">Photo</h3>
-                                        </div>
+                                      <div class="col-md-3">
+                                          <h3 class="profile_img">
+                                            <i class="fa fa-circle" aria-hidden="true"></i>
+                                            <i class="fa fa-circle" aria-hidden="true"></i>
+                                            <i class="fa fa-circle" aria-hidden="true"></i>
+                                          </h3>
+                                      </div>
                                       <div class="col-md-9 profile_details">
                                             <h2 style="font-size:20px;">Sheetal Mhetras</h2>
                                             <!--<span class="person-post">Designation</span>-->
@@ -333,9 +345,13 @@ background-color: red;
 
                                   <div class="row" style="margin-left:0px;">
 
-                                      <div class="col-md-3">
-                                          <h3 class="profile_img">Photo</h3>
-                                      </div>
+                                    <div class="col-md-3">
+                                        <h3 class="profile_img">
+                                          <i class="fa fa-circle" aria-hidden="true"></i>
+                                          <i class="fa fa-circle" aria-hidden="true"></i>
+                                          <i class="fa fa-circle" aria-hidden="true"></i>
+                                        </h3>
+                                    </div>
                                     <div class="col-md-9 profile_details">
                                           <h2 style="font-size:20px;">Prem</h2>
                                           <!--<span class="person-post">Designation</span>-->
@@ -347,7 +363,11 @@ background-color: red;
                                   <div class="row" style="margin-left:0px;">
 
                                       <div class="col-md-3">
-                                          <h3 class="profile_img">Photo</h3>
+                                          <h3 class="profile_img">
+                                            <i class="fa fa-circle" aria-hidden="true"></i>
+                                            <i class="fa fa-circle" aria-hidden="true"></i>
+                                            <i class="fa fa-circle" aria-hidden="true"></i>
+                                          </h3>
                                       </div>
                                     <div class="col-md-9 profile_details">
                                           <h2 style="font-size:20px;">Umais</h2>
