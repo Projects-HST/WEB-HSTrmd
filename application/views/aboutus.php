@@ -200,7 +200,7 @@ opacity:1;
 background-color: red;
 }
 .profile_details{
-  margin-top: 35px;
+  /* margin-top: 35px; */
   padding-left: 25px;
   padding-right: 25px;
 }
@@ -313,14 +313,8 @@ h3 .fa{
                                     <br>
                                 <div class="row">
                                       <div class="row"  style="margin-left:0px;">
-
                                         <div class="col-md-3">
                                           <img src="<?php echo base_url(); ?>assets/rajit.jpg">
-                                            <!-- <h3 class="profile_img">
-                                              <i class="fa fa-circle" aria-hidden="true"></i>
-                                              <i class="fa fa-circle" aria-hidden="true"></i>
-                                              <i class="fa fa-circle" aria-hidden="true"></i>
-                                            </h3> -->
                                         </div>
                                         <div class="col-md-9 profile_details">
                                               <h2 style="font-size:20px;">Rajit Mhetras</h2>
@@ -330,14 +324,9 @@ h3 .fa{
                                     </div>
 
                                     <div class="row" style="margin-left:0px;">
-
+                                      <br>
                                       <div class="col-md-3">
                                         <img src="<?php echo base_url(); ?>assets/sheetal.jpg">
-                                          <!-- <h3 class="profile_img">
-                                            <i class="fa fa-circle" aria-hidden="true"></i>
-                                            <i class="fa fa-circle" aria-hidden="true"></i>
-                                            <i class="fa fa-circle" aria-hidden="true"></i>
-                                          </h3> -->
                                       </div>
                                       <div class="col-md-9 profile_details">
                                             <h2 style="font-size:20px;">Sheetal Mhetras</h2>
@@ -373,7 +362,7 @@ h3 .fa{
                                             <i class="fa fa-circle" aria-hidden="true"></i>
                                           </h3>
                                       </div>
-                                    <div class="col-md-9 profile_details">
+                                    <div class="col-md-9 profile_details" style="margin-top:40px;">
                                           <h2 style="font-size:20px;">Umais</h2>
                                           <!--<span class="person-post">Designation</span>-->
                                            <p class="text-med" style="margin-top:10px;text-align:justify;line-height: 20px;">Umais studied Bachelor of Architecture from Measi Academy of Architecture in 2009. Since then, he is associated with the firm and handles design and execution of projects. </p>
