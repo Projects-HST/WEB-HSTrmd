@@ -149,7 +149,7 @@
                 </div>
                 <!-- end slider item -->
                 <!-- slider item -->
-                <!-- <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/2.jpg');">
+                <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/2.jpg');">
                     <div class="opacity-full bg-dark-gray"></div>
                     <div class="container full-screen position-relative">
                         <div class="slider-typography text-center">
@@ -164,7 +164,7 @@
                           </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
                 <!-- end slider item -->
                 <!-- slider item -->
                 <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/3.jpg');">
