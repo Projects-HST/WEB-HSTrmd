@@ -356,11 +356,8 @@ h3 .fa{
                                   <div class="row" style="margin-left:0px;">
 
                                       <div class="col-md-3">
-                                          <h3 class="profile_img">
-                                            <i class="fa fa-circle" aria-hidden="true"></i>
-                                            <i class="fa fa-circle" aria-hidden="true"></i>
-                                            <i class="fa fa-circle" aria-hidden="true"></i>
-                                          </h3>
+                                        <br>
+                                          <img src="<?php echo base_url(); ?>assets/umais.jpg">
                                       </div>
                                     <div class="col-md-9 profile_details" style="margin-top:40px;">
                                           <h2 style="font-size:20px;">Umais</h2>
