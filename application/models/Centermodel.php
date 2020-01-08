@@ -112,7 +112,7 @@ Class Centermodel extends CI_Model
              $check_batch="SELECT * FROM rmd_gallery_img WHERE project_id='$id'";
             $res=$this->db->query($check_batch);
              $res->num_rows();
-              if($res->num_rows()>10){
+              if($res->num_rows()>15){
               $data = array(
                   "status" => "limit"
               );
