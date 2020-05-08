@@ -112,7 +112,7 @@ Class Centermodel extends CI_Model
              $check_batch="SELECT * FROM rmd_gallery_img WHERE project_id='$id'";
             $res=$this->db->query($check_batch);
              $res->num_rows();
-              if($res->num_rows()>15){
+              if($res->num_rows()>35){
               $data = array(
                   "status" => "limit"
               );
@@ -185,7 +185,7 @@ Class Centermodel extends CI_Model
 
           // Front end function
           function get_project_details($id){
-              $select="SELECT * FROM rmd_project_gallery where id='$id'";
+              $select="SELECT rp.*,rs.sub_category_name FROM rmd_project_gallery as rp left join rmd_sub_category as rs on rs.id=rp.sub_cat_id where rp.id='$id'";
               $get_all=$this->db->query($select);
               return $get_all->result();
 

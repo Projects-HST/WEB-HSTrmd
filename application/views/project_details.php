@@ -27,7 +27,7 @@
                                       <li class=""><a href="#" id="condominiums">Condominiums</a></li>
                                       <li class=""><a href="#" id="hospitality">Hospitality</a></li>
                                       <li class=""><a href="#" id="industrial">Industrial</a></li>
-                                      <li class=""><a href="#" id="institution">Institutional</a></li>
+                                      <!-- <li class=""><a href="#" id="institution">Institutional</a></li> -->
                                       <li class=""><a href="#" id="residence">Residences</a></li>
 
                                   </ul>
@@ -76,7 +76,7 @@
                               <?php echo $rows_details->project_name; ?></h3>
 
 								<b>Type :</b>
-								<p>Commercial</p>
+								<p><?php echo $rows_details->sub_category_name; ?></p>
 								<b>Size :</b>
 								<p>  <?php echo $rows_details->size; ?></p>
 								<b>Address :</b>

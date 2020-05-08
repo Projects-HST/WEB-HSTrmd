@@ -52,7 +52,7 @@
                                       <li class=""><a href="#" id="condominiums">Condominiums</a></li>
                                       <li class=""><a href="#" id="hospitality">Hospitality</a></li>
                                       <li class=""><a href="#" id="industrial">Industrial</a></li>
-                                      <li class=""><a href="#" id="institutional">Institutional</a></li>
+                                      <!-- <li class=""><a href="#" id="institutional">Institutional</a></li> -->
                                       <li class=""><a href="#" id="residence">Residences</a></li>
 
                                   </ul>
