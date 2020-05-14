@@ -16,8 +16,8 @@
   padding-bottom: 3px;
 }
 .stick_menu{
-  position: relative;
-  height: auto;
+  position: relative !important;
+  height: auto !important;
 }
 }
 
