@@ -219,10 +219,7 @@ h3 .fa{
   padding-left: 30px;
   padding-right: 30px;
 }
-.stick_menu{
-  position: fixed;
-  height: 100vh;
-}
+
 @media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
 .about_section{
   margin-bottom: 100px;

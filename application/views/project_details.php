@@ -1,10 +1,3 @@
-
-<style>
-.stick_menu{
-  position: fixed;
-  height: 100vh;
-}
-</style>
 <section id="portfolio" class="grid-wrap work-4col margin-top-section no-margin-top no-padding-bottom wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
 	<div class="container">
 		<div class="row no-padding">
