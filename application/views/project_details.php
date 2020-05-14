@@ -22,13 +22,12 @@
                               <div class="">
                                   <h3 class="" style="color:#646466;margin-top:20px;text-align:left;">Architecture</h3>
                                   <ul class="portfolio-filter nav nav-tabs">
-                                      <li class=""><a href="#" id="all">All </a></li>
-                                      <li class=""><a href="#" id="comm">Commercial </a></li>
+                                      <li class=""><a href="javascript:history.back()" id="all">All </a></li>
+                                      <!-- <li class=""><a href="#" id="comm">Commercial </a></li>
                                       <li class=""><a href="#" id="condominiums">Condominiums</a></li>
                                       <li class=""><a href="#" id="hospitality">Hospitality</a></li>
                                       <li class=""><a href="#" id="industrial">Industrial</a></li>
-                                      <!-- <li class=""><a href="#" id="institution">Institutional</a></li> -->
-                                      <li class=""><a href="#" id="residence">Residences</a></li>
+                                      <li class=""><a href="#" id="residence">Residences</a></li> -->
 
                                   </ul>
                               </div>
@@ -49,11 +48,11 @@
 														<div class="">
 																<h3 class="" style="color:#646466;margin-top:20px;text-align:left;">Interiors</h3>
 																<ul class="portfolio-filter nav nav-tabs">
-																	<li class="nav"><a href="#" id="all">All </a></li>
-																	<li class="nav"><a href="#" id="corporate">Corporate </a></li>
+																	<li class="nav"><a href="javascript:history.back()" id="all">All </a></li>
+																	<!-- <li class="nav"><a href="#" id="corporate">Corporate </a></li>
 																	<li class="nav"><a href="#" id="cinemas">Cinemas </a></li>
 																	<li class="nav"><a href="#" id="hospitality">Hospitality</a></li>
-																	<li class="nav"><a href="#" id="residence">Residence</a></li>
+																	<li class="nav"><a href="#" id="residence">Residence</a></li> -->
 
 																</ul>
 														</div>
@@ -75,7 +74,7 @@
                                   style="color: #646466;font-size: 30px;height: 105px;">
                               <?php echo $rows_details->project_name; ?></h3>
 
-								<b>Type :</b>
+								<b>Typology :</b>
 								<p><?php echo $rows_details->sub_category_name; ?></p>
 								<b>Size :</b>
 								<p>  <?php echo $rows_details->size; ?></p>

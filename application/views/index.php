@@ -77,7 +77,7 @@
   display: none !important;
 }
 .opacity-full{
-  opacity: 0.7;
+  opacity: 0;
 }
 @media  (max-width: 667px) {
   .web_logo{
@@ -128,6 +128,7 @@
         <!-- end navigation panel -->
         <!-- slider -->
         <section id="slider" class="no-padding">
+
             <div id="owl-demo" class="owl-carousel owl-theme light-pagination square-pagination dark-pagination-without-next-prev-arrow main-slider">
                 <!-- slider item -->
                 <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/1.jpg');">
@@ -184,7 +185,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/4.jpg');">
+                <div class="item owl-bg-img" style="background-image:url('<?php echo base_url(); ?>assets/banner/4.jpg');">
                     <div class="opacity-full bg-dark-gray"></div>
                     <div class="container full-screen position-relative">
                         <div class="slider-typography text-center">
@@ -200,8 +201,9 @@
                           </div>
                         </div>
                     </div>
-                </div> -->
-                <!-- end slider item -->
+                </div>
+
+
             </div>
         </section>
         <!-- end slider -->

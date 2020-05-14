@@ -32,8 +32,12 @@
         <div class="container">
             <div class="row no-padding" style="margin-bottom:40px;margin-top:20px;margin-left:-10px;">
                 <div class="col-md-2">
-                    <a href="<?php echo base_url(); ?>home">
-                      <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo"></a>
+                  <div class="">                  
+                  <div class="">
+                        <a href="<?php echo base_url(); ?>home">
+                          <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo">
+                        </a>
+                      </div>
                     <nav class="navbar navbar-inverse">
                             <div class="navbar-header">
                               <a class="navbar-brand" href="#">Menu Bar</a>
@@ -60,6 +64,7 @@
 
                     </div>
                   </nav>
+                </div>
 
               </div>
                 <div class="col-md-10">
@@ -75,7 +80,9 @@
                                         <img class="content-image" src="<?php echo base_url(); ?>assets/gallery/<?php echo $rows->cover_photo; ?>">
 
                                         <div class="middle">
-                                            <div class="text caps_letter"><?php echo $rows->project_name; ?> <br><?php echo $rows->city; ?></div>
+                                            <div class="text caps_letter"><?php echo $rows->project_name; ?>
+                                              <!-- <br><?php echo $rows->city; ?> -->
+                                            </div>
                                         </div>
                                     </a>
                                 </div>

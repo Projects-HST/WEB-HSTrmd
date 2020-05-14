@@ -331,7 +331,7 @@ h3 .fa{
                                       <div class="col-md-9 profile_details">
                                             <h2 style="font-size:20px;">Sheetal Mhetras</h2>
                                             <!--<span class="person-post">Designation</span>-->
-                                             <p class="text-med" style="margin-top:10px;text-align:justify;line-height: 20px;">Sheetal completed her Diploma in Interior Design in 1994. She started her practice at Mhetras Design in 2002 after a brief stint with an architect in Chennai. She handles all interior design related projects across multiple categories with a great sense of panache.  </p>
+                                             <p class="text-med" style="margin-top:10px;text-align:justify;line-height: 20px;">Sheetal completed her Diploma in Interior Design in 1994. She started Mhetras Design in 2002 after a brief stint with an architect in Chennai. She handles all interior design related projects across multiple categories with a great sense of panache.  </p>
                                       </div>
                                   </div>
 
