@@ -219,6 +219,10 @@ h3 .fa{
   padding-left: 30px;
   padding-right: 30px;
 }
+.stick_menu{
+  position: fixed;
+  height: 100vh;
+}
 @media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
 .about_section{
   margin-bottom: 100px;
@@ -232,8 +236,12 @@ h3 .fa{
                     <div class="container">
                         <div class="row no-padding" style="margin-bottom:40px;margin-top:20px;">
                           <div class="col-md-2">
-                              <a href="<?php echo base_url(); ?>home">
-                                <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo" style="margin-left:5px;"></a>
+                            <div class="stick_menu">
+                              <div class="">
+                                  <a href="<?php echo base_url(); ?>home">
+                                    <img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo">
+                                  </a>
+                                </div>
                               <nav class="navbar navbar-inverse">
                                       <div class="navbar-header">
                                         <a class="navbar-brand" href="#">Menu Bar</a>
@@ -253,6 +261,7 @@ h3 .fa{
                                             </ul>
                                         </div>
 
+                              </div>
                               </div>
                             </nav>
 

@@ -1,11 +1,21 @@
+
+<style>
+.stick_menu{
+  position: fixed;
+  height: 100vh;
+}
+</style>
 <section id="portfolio" class="grid-wrap work-4col margin-top-section no-margin-top no-padding-bottom wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
 	<div class="container">
 		<div class="row no-padding">
 			<!-- section title -->
 			<div class="col-md-2 text-center">
+				<div class="stick_menu">
+
 				<a href="<?php echo base_url(); ?>home">
 					<img src="<?php echo base_url(); ?>assets/rmd.png" class="img-responsive rmd_logo">
 					</a>
+				</div>
 							<?php foreach($res_details as $rows_details){}
 								if($rows_details->cat_id=='1') { ?>
 
@@ -33,6 +43,7 @@
                               </div>
 
                     </div>
+									</div>
                   </nav>
 								<?php }else{?>
 									<nav class="navbar navbar-inverse">
